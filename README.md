@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/SparshaPrakash/Leetcode_/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/SparshaPrakash/Leetcode_/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/SparshaPrakash/Leetcode_/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/SparshaPrakash/Leetcode_/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/SparshaPrakash/Leetcode_/tree/master/0090-subsets-ii) |
 ## Hash Table
 |  |
@@ -19,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/SparshaPrakash/Leetcode_/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/SparshaPrakash/Leetcode_/tree/master/0131-palindrome-partitioning) |
 | [0316-remove-duplicate-letters](https://github.com/SparshaPrakash/Leetcode_/tree/master/0316-remove-duplicate-letters) |
 ## Dynamic Programming
@@ -32,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/SparshaPrakash/Leetcode_/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/SparshaPrakash/Leetcode_/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/SparshaPrakash/Leetcode_/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/SparshaPrakash/Leetcode_/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/SparshaPrakash/Leetcode_/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/SparshaPrakash/Leetcode_/tree/master/0131-palindrome-partitioning) |
 ## Stack
@@ -63,4 +66,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0078-subsets](https://github.com/SparshaPrakash/Leetcode_/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/SparshaPrakash/Leetcode_/tree/master/0090-subsets-ii) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/SparshaPrakash/Leetcode_/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
