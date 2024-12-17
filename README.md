@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/SparshaPrakash/Leetcode_/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/SparshaPrakash/Leetcode_/tree/master/0131-palindrome-partitioning) |
 ## Backtracking
 |  |
@@ -75,4 +76,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0079-word-search](https://github.com/SparshaPrakash/Leetcode_/tree/master/0079-word-search) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/SparshaPrakash/Leetcode_/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/SparshaPrakash/Leetcode_/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
