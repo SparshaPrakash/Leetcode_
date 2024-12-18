@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SparshaPrakash/Leetcode_/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SparshaPrakash/Leetcode_/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0079-word-search](https://github.com/SparshaPrakash/Leetcode_/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/SparshaPrakash/Leetcode_/tree/master/0131-palindrome-partitioning) |
@@ -32,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SparshaPrakash/Leetcode_/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/SparshaPrakash/Leetcode_/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/SparshaPrakash/Leetcode_/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/SparshaPrakash/Leetcode_/tree/master/0198-house-robber) |
@@ -90,4 +92,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/SparshaPrakash/Leetcode_/tree/master/0070-climbing-stairs) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/SparshaPrakash/Leetcode_/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
