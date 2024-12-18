@@ -1,11 +1,5 @@
 class Solution:
-    def expand_check(self, l, r, s):
-        while l >= 0 and r < len(s) and s[l] == s[r]:
-            if (r - l + 1) > self.res_len:
-                self.res = s[l: r + 1]
-                self.res_len = r - l + 1
-            l -= 1
-            r += 1
+    
     
     def longestPalindrome(self, s: str) -> str:
         self.res = ""
@@ -21,6 +15,14 @@ class Solution:
             self.expand_check(l, r, s)
 
         return self.res
+
+    def expand_check(self, l, r, s):
+        while l >= 0 and r < len(s) and s[l] == s[r]:
+            if (r - l + 1) > self.res_len:
+                self.res = s[l: r + 1]
+                self.res_len = r - l + 1
+            l -= 1
+            r += 1
 
 
 
