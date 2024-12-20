@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/SparshaPrakash/Leetcode_/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/SparshaPrakash/Leetcode_/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/SparshaPrakash/Leetcode_/tree/master/0090-subsets-ii) |
+| [0139-word-break](https://github.com/SparshaPrakash/Leetcode_/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/SparshaPrakash/Leetcode_/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/SparshaPrakash/Leetcode_/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/SparshaPrakash/Leetcode_/tree/master/0213-house-robber-ii) |
@@ -24,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/SparshaPrakash/Leetcode_/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SparshaPrakash/Leetcode_/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0139-word-break](https://github.com/SparshaPrakash/Leetcode_/tree/master/0139-word-break) |
 ## String
 |  |
 | ------- |
@@ -32,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/SparshaPrakash/Leetcode_/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/SparshaPrakash/Leetcode_/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/SparshaPrakash/Leetcode_/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/SparshaPrakash/Leetcode_/tree/master/0139-word-break) |
 | [0316-remove-duplicate-letters](https://github.com/SparshaPrakash/Leetcode_/tree/master/0316-remove-duplicate-letters) |
 | [0647-palindromic-substrings](https://github.com/SparshaPrakash/Leetcode_/tree/master/0647-palindromic-substrings) |
 ## Dynamic Programming
@@ -41,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/SparshaPrakash/Leetcode_/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/SparshaPrakash/Leetcode_/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/SparshaPrakash/Leetcode_/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/SparshaPrakash/Leetcode_/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/SparshaPrakash/Leetcode_/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/SparshaPrakash/Leetcode_/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/SparshaPrakash/Leetcode_/tree/master/0213-house-robber-ii) |
@@ -100,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/SparshaPrakash/Leetcode_/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/SparshaPrakash/Leetcode_/tree/master/0139-word-break) |
 ## Two Pointers
 |  |
 | ------- |
@@ -109,4 +114,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/SparshaPrakash/Leetcode_/tree/master/0322-coin-change) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/SparshaPrakash/Leetcode_/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
