@@ -69,7 +69,7 @@ class Solution:
 #         for r in range(rows):
 #             for c in range(cols):
 #                 if grid[r][c] == "1" and (r, c) not in visited:
-#                     # Start DFS for each new island
+#                     
 #                     dfs(r, c)
 #                     islands += 1
 
