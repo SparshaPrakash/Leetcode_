@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/SparshaPrakash/Leetcode_/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SparshaPrakash/Leetcode_/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0133-clone-graph](https://github.com/SparshaPrakash/Leetcode_/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/SparshaPrakash/Leetcode_/tree/master/0139-word-break) |
 ## String
 |  |
@@ -88,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/SparshaPrakash/Leetcode_/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/SparshaPrakash/Leetcode_/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SparshaPrakash/Leetcode_/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0695-max-area-of-island](https://github.com/SparshaPrakash/Leetcode_/tree/master/0695-max-area-of-island) |
@@ -123,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/SparshaPrakash/Leetcode_/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/SparshaPrakash/Leetcode_/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/SparshaPrakash/Leetcode_/tree/master/0322-coin-change) |
 | [0695-max-area-of-island](https://github.com/SparshaPrakash/Leetcode_/tree/master/0695-max-area-of-island) |
@@ -139,4 +142,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0200-number-of-islands](https://github.com/SparshaPrakash/Leetcode_/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/SparshaPrakash/Leetcode_/tree/master/0695-max-area-of-island) |
+## Graph
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/SparshaPrakash/Leetcode_/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
