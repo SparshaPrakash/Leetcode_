@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/SparshaPrakash/Leetcode_/tree/master/0416-partition-equal-subset-sum) |
 | [0695-max-area-of-island](https://github.com/SparshaPrakash/Leetcode_/tree/master/0695-max-area-of-island) |
 | [0747-min-cost-climbing-stairs](https://github.com/SparshaPrakash/Leetcode_/tree/master/0747-min-cost-climbing-stairs) |
+| [1036-rotting-oranges](https://github.com/SparshaPrakash/Leetcode_/tree/master/1036-rotting-oranges) |
 ## Hash Table
 |  |
 | ------- |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/SparshaPrakash/Leetcode_/tree/master/0200-number-of-islands) |
 | [0286-walls-and-gates](https://github.com/SparshaPrakash/Leetcode_/tree/master/0286-walls-and-gates) |
 | [0695-max-area-of-island](https://github.com/SparshaPrakash/Leetcode_/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/SparshaPrakash/Leetcode_/tree/master/1036-rotting-oranges) |
 ## Math
 |  |
 | ------- |
@@ -132,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0286-walls-and-gates](https://github.com/SparshaPrakash/Leetcode_/tree/master/0286-walls-and-gates) |
 | [0322-coin-change](https://github.com/SparshaPrakash/Leetcode_/tree/master/0322-coin-change) |
 | [0695-max-area-of-island](https://github.com/SparshaPrakash/Leetcode_/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/SparshaPrakash/Leetcode_/tree/master/1036-rotting-oranges) |
 ## Trie
 |  |
 | ------- |
