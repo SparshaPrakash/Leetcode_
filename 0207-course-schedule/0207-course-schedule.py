@@ -20,7 +20,7 @@ class Solution:
             preMap[crs] = []
             return True
 
-        for crs in range(numCourses):
+        for crs in range(numCourses): # so that all courses are chcked, even of the graph is diconnected
             if not dfs(crs): return False
         return True
             
