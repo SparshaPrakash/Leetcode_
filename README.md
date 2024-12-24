@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/SparshaPrakash/Leetcode_/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SparshaPrakash/Leetcode_/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0127-word-ladder](https://github.com/SparshaPrakash/Leetcode_/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/SparshaPrakash/Leetcode_/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/SparshaPrakash/Leetcode_/tree/master/0139-word-break) |
 ## String
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SparshaPrakash/Leetcode_/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0079-word-search](https://github.com/SparshaPrakash/Leetcode_/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/SparshaPrakash/Leetcode_/tree/master/0091-decode-ways) |
+| [0127-word-ladder](https://github.com/SparshaPrakash/Leetcode_/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/SparshaPrakash/Leetcode_/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/SparshaPrakash/Leetcode_/tree/master/0139-word-break) |
 | [0316-remove-duplicate-letters](https://github.com/SparshaPrakash/Leetcode_/tree/master/0316-remove-duplicate-letters) |
@@ -140,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/SparshaPrakash/Leetcode_/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/SparshaPrakash/Leetcode_/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/SparshaPrakash/Leetcode_/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/SparshaPrakash/Leetcode_/tree/master/0200-number-of-islands) |
