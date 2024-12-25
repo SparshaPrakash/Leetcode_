@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SparshaPrakash/Leetcode_/tree/master/0005-longest-palindromic-substring) |
+| [0062-unique-paths](https://github.com/SparshaPrakash/Leetcode_/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/SparshaPrakash/Leetcode_/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/SparshaPrakash/Leetcode_/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/SparshaPrakash/Leetcode_/tree/master/0131-palindrome-partitioning) |
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/SparshaPrakash/Leetcode_/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/SparshaPrakash/Leetcode_/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
@@ -187,4 +189,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0207-course-schedule](https://github.com/SparshaPrakash/Leetcode_/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/SparshaPrakash/Leetcode_/tree/master/0210-course-schedule-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/SparshaPrakash/Leetcode_/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
