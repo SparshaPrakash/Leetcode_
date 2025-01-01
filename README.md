@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/SparshaPrakash/Leetcode_/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/SparshaPrakash/Leetcode_/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/SparshaPrakash/Leetcode_/tree/master/0213-house-robber-ii) |
+| [0215-kth-largest-element-in-an-array](https://github.com/SparshaPrakash/Leetcode_/tree/master/0215-kth-largest-element-in-an-array) |
 | [0286-walls-and-gates](https://github.com/SparshaPrakash/Leetcode_/tree/master/0286-walls-and-gates) |
 | [0300-longest-increasing-subsequence](https://github.com/SparshaPrakash/Leetcode_/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/SparshaPrakash/Leetcode_/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -242,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/SparshaPrakash/Leetcode_/tree/master/0215-kth-largest-element-in-an-array) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/SparshaPrakash/Leetcode_/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/SparshaPrakash/Leetcode_/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/SparshaPrakash/Leetcode_/tree/master/1127-last-stone-weight) |
@@ -252,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/SparshaPrakash/Leetcode_/tree/master/0215-kth-largest-element-in-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/SparshaPrakash/Leetcode_/tree/master/1014-k-closest-points-to-origin) |
 ## Geometry
 |  |
@@ -260,9 +263,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/SparshaPrakash/Leetcode_/tree/master/0215-kth-largest-element-in-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/SparshaPrakash/Leetcode_/tree/master/1014-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/SparshaPrakash/Leetcode_/tree/master/0215-kth-largest-element-in-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/SparshaPrakash/Leetcode_/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
