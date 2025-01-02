@@ -17,12 +17,12 @@ class Solution:
                 i += 1
 
             while k < len(left_half):
-                nums[i] = left_half[k]
+                arr[i] = left_half[k]
                 k += 1
                 i += 1
 
             while  j < len(right_half):
-                nums[i] = right_half[j]
+                arr[i] = right_half[j]
                 j += 1
                 i += 1
 
