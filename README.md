@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/SparshaPrakash/Leetcode_/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/SparshaPrakash/Leetcode_/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/SparshaPrakash/Leetcode_/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/SparshaPrakash/Leetcode_/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/SparshaPrakash/Leetcode_/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/SparshaPrakash/Leetcode_/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/SparshaPrakash/Leetcode_/tree/master/0090-subsets-ii) |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SparshaPrakash/Leetcode_/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/SparshaPrakash/Leetcode_/tree/master/0010-regular-expression-matching) |
+| [0053-maximum-subarray](https://github.com/SparshaPrakash/Leetcode_/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/SparshaPrakash/Leetcode_/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/SparshaPrakash/Leetcode_/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/SparshaPrakash/Leetcode_/tree/master/0072-edit-distance) |
@@ -267,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/SparshaPrakash/Leetcode_/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SparshaPrakash/Leetcode_/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/SparshaPrakash/Leetcode_/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/SparshaPrakash/Leetcode_/tree/master/1014-k-closest-points-to-origin) |
