@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/SparshaPrakash/Leetcode_/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/SparshaPrakash/Leetcode_/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/SparshaPrakash/Leetcode_/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/SparshaPrakash/Leetcode_/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/SparshaPrakash/Leetcode_/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/SparshaPrakash/Leetcode_/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/SparshaPrakash/Leetcode_/tree/master/0053-maximum-subarray) |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SparshaPrakash/Leetcode_/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/SparshaPrakash/Leetcode_/tree/master/0010-regular-expression-matching) |
+| [0045-jump-game-ii](https://github.com/SparshaPrakash/Leetcode_/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/SparshaPrakash/Leetcode_/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/SparshaPrakash/Leetcode_/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/SparshaPrakash/Leetcode_/tree/master/0062-unique-paths) |
@@ -118,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/SparshaPrakash/Leetcode_/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/SparshaPrakash/Leetcode_/tree/master/0055-jump-game) |
 | [0316-remove-duplicate-letters](https://github.com/SparshaPrakash/Leetcode_/tree/master/0316-remove-duplicate-letters) |
 | [0621-task-scheduler](https://github.com/SparshaPrakash/Leetcode_/tree/master/0621-task-scheduler) |
