@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1014-k-closest-points-to-origin](https://github.com/SparshaPrakash/Leetcode_/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/SparshaPrakash/Leetcode_/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/SparshaPrakash/Leetcode_/tree/master/1127-last-stone-weight) |
+| [2026-merge-triplets-to-form-target-triplet](https://github.com/SparshaPrakash/Leetcode_/tree/master/2026-merge-triplets-to-form-target-triplet) |
 ## Hash Table
 |  |
 | ------- |
@@ -136,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0678-valid-parenthesis-string](https://github.com/SparshaPrakash/Leetcode_/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/SparshaPrakash/Leetcode_/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/SparshaPrakash/Leetcode_/tree/master/0876-hand-of-straights) |
+| [2026-merge-triplets-to-form-target-triplet](https://github.com/SparshaPrakash/Leetcode_/tree/master/2026-merge-triplets-to-form-target-triplet) |
 ## Monotonic Stack
 |  |
 | ------- |
