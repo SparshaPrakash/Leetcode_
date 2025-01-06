@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0213-house-robber-ii](https://github.com/SparshaPrakash/Leetcode_/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SparshaPrakash/Leetcode_/tree/master/0215-kth-largest-element-in-an-array) |
 | [0252-meeting-rooms](https://github.com/SparshaPrakash/Leetcode_/tree/master/0252-meeting-rooms) |
+| [0253-meeting-rooms-ii](https://github.com/SparshaPrakash/Leetcode_/tree/master/0253-meeting-rooms-ii) |
 | [0286-walls-and-gates](https://github.com/SparshaPrakash/Leetcode_/tree/master/0286-walls-and-gates) |
 | [0300-longest-increasing-subsequence](https://github.com/SparshaPrakash/Leetcode_/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/SparshaPrakash/Leetcode_/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/SparshaPrakash/Leetcode_/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/SparshaPrakash/Leetcode_/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/SparshaPrakash/Leetcode_/tree/master/0134-gas-station) |
+| [0253-meeting-rooms-ii](https://github.com/SparshaPrakash/Leetcode_/tree/master/0253-meeting-rooms-ii) |
 | [0316-remove-duplicate-letters](https://github.com/SparshaPrakash/Leetcode_/tree/master/0316-remove-duplicate-letters) |
 | [0621-task-scheduler](https://github.com/SparshaPrakash/Leetcode_/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/SparshaPrakash/Leetcode_/tree/master/0678-valid-parenthesis-string) |
@@ -200,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SparshaPrakash/Leetcode_/tree/master/0005-longest-palindromic-substring) |
+| [0253-meeting-rooms-ii](https://github.com/SparshaPrakash/Leetcode_/tree/master/0253-meeting-rooms-ii) |
 | [0295-find-median-from-data-stream](https://github.com/SparshaPrakash/Leetcode_/tree/master/0295-find-median-from-data-stream) |
 | [0647-palindromic-substrings](https://github.com/SparshaPrakash/Leetcode_/tree/master/0647-palindromic-substrings) |
 | [0768-partition-labels](https://github.com/SparshaPrakash/Leetcode_/tree/master/0768-partition-labels) |
@@ -276,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SparshaPrakash/Leetcode_/tree/master/0215-kth-largest-element-in-an-array) |
+| [0253-meeting-rooms-ii](https://github.com/SparshaPrakash/Leetcode_/tree/master/0253-meeting-rooms-ii) |
 | [0295-find-median-from-data-stream](https://github.com/SparshaPrakash/Leetcode_/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/SparshaPrakash/Leetcode_/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/SparshaPrakash/Leetcode_/tree/master/0621-task-scheduler) |
@@ -304,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SparshaPrakash/Leetcode_/tree/master/0215-kth-largest-element-in-an-array) |
 | [0252-meeting-rooms](https://github.com/SparshaPrakash/Leetcode_/tree/master/0252-meeting-rooms) |
+| [0253-meeting-rooms-ii](https://github.com/SparshaPrakash/Leetcode_/tree/master/0253-meeting-rooms-ii) |
 | [0295-find-median-from-data-stream](https://github.com/SparshaPrakash/Leetcode_/tree/master/0295-find-median-from-data-stream) |
 | [0621-task-scheduler](https://github.com/SparshaPrakash/Leetcode_/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/SparshaPrakash/Leetcode_/tree/master/0876-hand-of-straights) |
@@ -335,4 +340,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0355-design-twitter](https://github.com/SparshaPrakash/Leetcode_/tree/master/0355-design-twitter) |
+## Prefix Sum
+|  |
+| ------- |
+| [0253-meeting-rooms-ii](https://github.com/SparshaPrakash/Leetcode_/tree/master/0253-meeting-rooms-ii) |
 <!---LeetCode Topics End-->
