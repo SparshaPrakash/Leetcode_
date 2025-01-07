@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0131-palindrome-partitioning](https://github.com/SparshaPrakash/Leetcode_/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/SparshaPrakash/Leetcode_/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/SparshaPrakash/Leetcode_/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/SparshaPrakash/Leetcode_/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0316-remove-duplicate-letters](https://github.com/SparshaPrakash/Leetcode_/tree/master/0316-remove-duplicate-letters) |
 | [0647-palindromic-substrings](https://github.com/SparshaPrakash/Leetcode_/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/SparshaPrakash/Leetcode_/tree/master/0678-valid-parenthesis-string) |
@@ -166,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/SparshaPrakash/Leetcode_/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/SparshaPrakash/Leetcode_/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/SparshaPrakash/Leetcode_/tree/master/0210-course-schedule-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/SparshaPrakash/Leetcode_/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SparshaPrakash/Leetcode_/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0261-graph-valid-tree](https://github.com/SparshaPrakash/Leetcode_/tree/master/0261-graph-valid-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/SparshaPrakash/Leetcode_/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
@@ -237,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0139-word-break](https://github.com/SparshaPrakash/Leetcode_/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/SparshaPrakash/Leetcode_/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/SparshaPrakash/Leetcode_/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Binary Search
 |  |
 | ------- |
@@ -279,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/SparshaPrakash/Leetcode_/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/SparshaPrakash/Leetcode_/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/SparshaPrakash/Leetcode_/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/SparshaPrakash/Leetcode_/tree/master/0355-design-twitter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/SparshaPrakash/Leetcode_/tree/master/0789-kth-largest-element-in-a-stream) |
