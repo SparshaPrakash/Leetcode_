@@ -20,5 +20,5 @@ class Solution:
 
         return [res[q] for q in queries] # the res is origibally a hashmap, so here we are converting it to a list which is in the same order as the queries in the question
 
-# Time complexity- O(n log n + q log q) n is the length of intervals, q is the length of queries 
+# Time complexity- O(n log n + q log q) n is the length of intervals, q is the length of queries, and we are sorting both of these inputs
         
