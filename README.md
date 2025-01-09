@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/SparshaPrakash/Leetcode_/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/SparshaPrakash/Leetcode_/tree/master/0695-max-area-of-island) |
 | [0747-min-cost-climbing-stairs](https://github.com/SparshaPrakash/Leetcode_/tree/master/0747-min-cost-climbing-stairs) |
+| [0794-swim-in-rising-water](https://github.com/SparshaPrakash/Leetcode_/tree/master/0794-swim-in-rising-water) |
 | [0876-hand-of-straights](https://github.com/SparshaPrakash/Leetcode_/tree/master/0876-hand-of-straights) |
 | [0948-sort-an-array](https://github.com/SparshaPrakash/Leetcode_/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/SparshaPrakash/Leetcode_/tree/master/1014-k-closest-points-to-origin) |
@@ -181,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0684-redundant-connection](https://github.com/SparshaPrakash/Leetcode_/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/SparshaPrakash/Leetcode_/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/SparshaPrakash/Leetcode_/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/SparshaPrakash/Leetcode_/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/SparshaPrakash/Leetcode_/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Binary Tree
 |  |
@@ -203,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SparshaPrakash/Leetcode_/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/SparshaPrakash/Leetcode_/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/SparshaPrakash/Leetcode_/tree/master/0695-max-area-of-island) |
+| [0794-swim-in-rising-water](https://github.com/SparshaPrakash/Leetcode_/tree/master/0794-swim-in-rising-water) |
 | [1036-rotting-oranges](https://github.com/SparshaPrakash/Leetcode_/tree/master/1036-rotting-oranges) |
 ## Math
 |  |
@@ -242,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0684-redundant-connection](https://github.com/SparshaPrakash/Leetcode_/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/SparshaPrakash/Leetcode_/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/SparshaPrakash/Leetcode_/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/SparshaPrakash/Leetcode_/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/SparshaPrakash/Leetcode_/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1036-rotting-oranges](https://github.com/SparshaPrakash/Leetcode_/tree/master/1036-rotting-oranges) |
 ## Trie
@@ -255,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/SparshaPrakash/Leetcode_/tree/master/0300-longest-increasing-subsequence) |
+| [0794-swim-in-rising-water](https://github.com/SparshaPrakash/Leetcode_/tree/master/0794-swim-in-rising-water) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/SparshaPrakash/Leetcode_/tree/master/1977-minimum-interval-to-include-each-query) |
 ## Union Find
 |  |
@@ -265,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/SparshaPrakash/Leetcode_/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0684-redundant-connection](https://github.com/SparshaPrakash/Leetcode_/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/SparshaPrakash/Leetcode_/tree/master/0695-max-area-of-island) |
+| [0794-swim-in-rising-water](https://github.com/SparshaPrakash/Leetcode_/tree/master/0794-swim-in-rising-water) |
 | [1706-min-cost-to-connect-all-points](https://github.com/SparshaPrakash/Leetcode_/tree/master/1706-min-cost-to-connect-all-points) |
 ## Graph
 |  |
@@ -315,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/SparshaPrakash/Leetcode_/tree/master/0621-task-scheduler) |
 | [0744-network-delay-time](https://github.com/SparshaPrakash/Leetcode_/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/SparshaPrakash/Leetcode_/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0794-swim-in-rising-water](https://github.com/SparshaPrakash/Leetcode_/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/SparshaPrakash/Leetcode_/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0948-sort-an-array](https://github.com/SparshaPrakash/Leetcode_/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/SparshaPrakash/Leetcode_/tree/master/1014-k-closest-points-to-origin) |
