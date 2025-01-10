@@ -116,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0312-burst-balloons](https://github.com/SparshaPrakash/Leetcode_/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/SparshaPrakash/Leetcode_/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SparshaPrakash/Leetcode_/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0338-counting-bits](https://github.com/SparshaPrakash/Leetcode_/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/SparshaPrakash/Leetcode_/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/SparshaPrakash/Leetcode_/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/SparshaPrakash/Leetcode_/tree/master/0494-target-sum) |
@@ -201,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/SparshaPrakash/Leetcode_/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/SparshaPrakash/Leetcode_/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/SparshaPrakash/Leetcode_/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/SparshaPrakash/Leetcode_/tree/master/0338-counting-bits) |
 ## Matrix
 |  |
 | ------- |
