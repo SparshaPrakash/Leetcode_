@@ -1,11 +1,7 @@
 class Solution:
     def singleNumber(self, nums: List[int]) -> int:
-        seen = set()
+        res = 0 # this would be a good default value isnce n ^ (XOR) 0 = n
 
-        for i in range(len(nums)):
-            if nums[i] in seen:
-                seen.remove(nums[i])
-            else:
-                seen.add(nums[i])
-
-        return seen.pop()
+        for n in nums:
+            res = n ^ res
+        return res
