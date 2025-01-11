@@ -201,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/SparshaPrakash/Leetcode_/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/SparshaPrakash/Leetcode_/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/SparshaPrakash/Leetcode_/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/SparshaPrakash/Leetcode_/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/SparshaPrakash/Leetcode_/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/SparshaPrakash/Leetcode_/tree/master/0338-counting-bits) |
 ## Matrix
@@ -349,6 +350,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SparshaPrakash/Leetcode_/tree/master/0053-maximum-subarray) |
+| [0190-reverse-bits](https://github.com/SparshaPrakash/Leetcode_/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/SparshaPrakash/Leetcode_/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SparshaPrakash/Leetcode_/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/SparshaPrakash/Leetcode_/tree/master/0948-sort-an-array) |
