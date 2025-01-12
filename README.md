@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/SparshaPrakash/Leetcode_/tree/master/0215-kth-largest-element-in-an-array) |
 | [0252-meeting-rooms](https://github.com/SparshaPrakash/Leetcode_/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/SparshaPrakash/Leetcode_/tree/master/0253-meeting-rooms-ii) |
+| [0268-missing-number](https://github.com/SparshaPrakash/Leetcode_/tree/master/0268-missing-number) |
 | [0269-alien-dictionary](https://github.com/SparshaPrakash/Leetcode_/tree/master/0269-alien-dictionary) |
 | [0286-walls-and-gates](https://github.com/SparshaPrakash/Leetcode_/tree/master/0286-walls-and-gates) |
 | [0300-longest-increasing-subsequence](https://github.com/SparshaPrakash/Leetcode_/tree/master/0300-longest-increasing-subsequence) |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0133-clone-graph](https://github.com/SparshaPrakash/Leetcode_/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/SparshaPrakash/Leetcode_/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/SparshaPrakash/Leetcode_/tree/master/0208-implement-trie-prefix-tree) |
+| [0268-missing-number](https://github.com/SparshaPrakash/Leetcode_/tree/master/0268-missing-number) |
 | [0355-design-twitter](https://github.com/SparshaPrakash/Leetcode_/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/SparshaPrakash/Leetcode_/tree/master/0621-task-scheduler) |
 | [0768-partition-labels](https://github.com/SparshaPrakash/Leetcode_/tree/master/0768-partition-labels) |
@@ -203,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/SparshaPrakash/Leetcode_/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/SparshaPrakash/Leetcode_/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/SparshaPrakash/Leetcode_/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/SparshaPrakash/Leetcode_/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/SparshaPrakash/Leetcode_/tree/master/0338-counting-bits) |
 ## Matrix
 |  |
@@ -222,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0062-unique-paths](https://github.com/SparshaPrakash/Leetcode_/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/SparshaPrakash/Leetcode_/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/SparshaPrakash/Leetcode_/tree/master/0268-missing-number) |
 | [1014-k-closest-points-to-origin](https://github.com/SparshaPrakash/Leetcode_/tree/master/1014-k-closest-points-to-origin) |
 ## Memoization
 |  |
@@ -269,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/SparshaPrakash/Leetcode_/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/SparshaPrakash/Leetcode_/tree/master/0300-longest-increasing-subsequence) |
 | [0794-swim-in-rising-water](https://github.com/SparshaPrakash/Leetcode_/tree/master/0794-swim-in-rising-water) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/SparshaPrakash/Leetcode_/tree/master/1977-minimum-interval-to-include-each-query) |
@@ -366,6 +371,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/SparshaPrakash/Leetcode_/tree/master/0215-kth-largest-element-in-an-array) |
 | [0252-meeting-rooms](https://github.com/SparshaPrakash/Leetcode_/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/SparshaPrakash/Leetcode_/tree/master/0253-meeting-rooms-ii) |
+| [0268-missing-number](https://github.com/SparshaPrakash/Leetcode_/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/SparshaPrakash/Leetcode_/tree/master/0295-find-median-from-data-stream) |
 | [0435-non-overlapping-intervals](https://github.com/SparshaPrakash/Leetcode_/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/SparshaPrakash/Leetcode_/tree/master/0621-task-scheduler) |
