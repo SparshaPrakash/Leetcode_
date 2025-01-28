@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/SparshaPrakash/Leetcode_/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/SparshaPrakash/Leetcode_/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/SparshaPrakash/Leetcode_/tree/master/0063-unique-paths-ii) |
+| [0075-sort-colors](https://github.com/SparshaPrakash/Leetcode_/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/SparshaPrakash/Leetcode_/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/SparshaPrakash/Leetcode_/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/SparshaPrakash/Leetcode_/tree/master/0090-subsets-ii) |
@@ -272,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SparshaPrakash/Leetcode_/tree/master/0005-longest-palindromic-substring) |
+| [0075-sort-colors](https://github.com/SparshaPrakash/Leetcode_/tree/master/0075-sort-colors) |
 | [0253-meeting-rooms-ii](https://github.com/SparshaPrakash/Leetcode_/tree/master/0253-meeting-rooms-ii) |
 | [0295-find-median-from-data-stream](https://github.com/SparshaPrakash/Leetcode_/tree/master/0295-find-median-from-data-stream) |
 | [0647-palindromic-substrings](https://github.com/SparshaPrakash/Leetcode_/tree/master/0647-palindromic-substrings) |
@@ -408,6 +410,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/SparshaPrakash/Leetcode_/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/SparshaPrakash/Leetcode_/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SparshaPrakash/Leetcode_/tree/master/0215-kth-largest-element-in-an-array) |
 | [0252-meeting-rooms](https://github.com/SparshaPrakash/Leetcode_/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/SparshaPrakash/Leetcode_/tree/master/0253-meeting-rooms-ii) |
