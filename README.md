@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0876-hand-of-straights](https://github.com/SparshaPrakash/Leetcode_/tree/master/0876-hand-of-straights) |
 | [0909-stone-game](https://github.com/SparshaPrakash/Leetcode_/tree/master/0909-stone-game) |
 | [0948-sort-an-array](https://github.com/SparshaPrakash/Leetcode_/tree/master/0948-sort-an-array) |
+| [0952-word-subsets](https://github.com/SparshaPrakash/Leetcode_/tree/master/0952-word-subsets) |
 | [0976-minimum-area-rectangle](https://github.com/SparshaPrakash/Leetcode_/tree/master/0976-minimum-area-rectangle) |
 | [1014-k-closest-points-to-origin](https://github.com/SparshaPrakash/Leetcode_/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/SparshaPrakash/Leetcode_/tree/master/1036-rotting-oranges) |
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/SparshaPrakash/Leetcode_/tree/master/0621-task-scheduler) |
 | [0768-partition-labels](https://github.com/SparshaPrakash/Leetcode_/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/SparshaPrakash/Leetcode_/tree/master/0876-hand-of-straights) |
+| [0952-word-subsets](https://github.com/SparshaPrakash/Leetcode_/tree/master/0952-word-subsets) |
 | [0976-minimum-area-rectangle](https://github.com/SparshaPrakash/Leetcode_/tree/master/0976-minimum-area-rectangle) |
 ## String
 |  |
@@ -113,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0647-palindromic-substrings](https://github.com/SparshaPrakash/Leetcode_/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/SparshaPrakash/Leetcode_/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/SparshaPrakash/Leetcode_/tree/master/0768-partition-labels) |
+| [0952-word-subsets](https://github.com/SparshaPrakash/Leetcode_/tree/master/0952-word-subsets) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/SparshaPrakash/Leetcode_/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1250-longest-common-subsequence](https://github.com/SparshaPrakash/Leetcode_/tree/master/1250-longest-common-subsequence) |
 ## Dynamic Programming
