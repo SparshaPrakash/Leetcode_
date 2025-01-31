@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1706-min-cost-to-connect-all-points](https://github.com/SparshaPrakash/Leetcode_/tree/master/1706-min-cost-to-connect-all-points) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/SparshaPrakash/Leetcode_/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/SparshaPrakash/Leetcode_/tree/master/2026-merge-triplets-to-form-target-triplet) |
+| [2358-number-of-ways-to-split-array](https://github.com/SparshaPrakash/Leetcode_/tree/master/2358-number-of-ways-to-split-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -465,6 +466,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0253-meeting-rooms-ii](https://github.com/SparshaPrakash/Leetcode_/tree/master/0253-meeting-rooms-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/SparshaPrakash/Leetcode_/tree/master/0560-subarray-sum-equals-k) |
+| [2358-number-of-ways-to-split-array](https://github.com/SparshaPrakash/Leetcode_/tree/master/2358-number-of-ways-to-split-array) |
 ## Line Sweep
 |  |
 | ------- |
