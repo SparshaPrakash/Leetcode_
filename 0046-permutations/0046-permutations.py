@@ -4,7 +4,7 @@ class Solution:
         res, cur = [], []
 
         def dfs():
-            if len(cur) == n:
+            if len(cur) == n: 
                 res.append(cur.copy())
                 return
 
