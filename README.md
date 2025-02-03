@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/SparshaPrakash/Leetcode_/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/SparshaPrakash/Leetcode_/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/SparshaPrakash/Leetcode_/tree/master/0695-max-area-of-island) |
+| [0739-daily-temperatures](https://github.com/SparshaPrakash/Leetcode_/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/SparshaPrakash/Leetcode_/tree/master/0747-min-cost-climbing-stairs) |
 | [0794-swim-in-rising-water](https://github.com/SparshaPrakash/Leetcode_/tree/master/0794-swim-in-rising-water) |
 | [0876-hand-of-straights](https://github.com/SparshaPrakash/Leetcode_/tree/master/0876-hand-of-straights) |
@@ -183,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0316-remove-duplicate-letters](https://github.com/SparshaPrakash/Leetcode_/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/SparshaPrakash/Leetcode_/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/SparshaPrakash/Leetcode_/tree/master/0678-valid-parenthesis-string) |
+| [0739-daily-temperatures](https://github.com/SparshaPrakash/Leetcode_/tree/master/0739-daily-temperatures) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/SparshaPrakash/Leetcode_/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Greedy
 |  |
@@ -202,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/SparshaPrakash/Leetcode_/tree/master/0316-remove-duplicate-letters) |
+| [0739-daily-temperatures](https://github.com/SparshaPrakash/Leetcode_/tree/master/0739-daily-temperatures) |
 ## Tree
 |  |
 | ------- |
