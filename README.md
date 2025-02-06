@@ -116,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0208-implement-trie-prefix-tree](https://github.com/SparshaPrakash/Leetcode_/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/SparshaPrakash/Leetcode_/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/SparshaPrakash/Leetcode_/tree/master/0212-word-search-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/SparshaPrakash/Leetcode_/tree/master/0241-different-ways-to-add-parentheses) |
 | [0269-alien-dictionary](https://github.com/SparshaPrakash/Leetcode_/tree/master/0269-alien-dictionary) |
 | [0316-remove-duplicate-letters](https://github.com/SparshaPrakash/Leetcode_/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/SparshaPrakash/Leetcode_/tree/master/0394-decode-string) |
@@ -147,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/SparshaPrakash/Leetcode_/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/SparshaPrakash/Leetcode_/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/SparshaPrakash/Leetcode_/tree/master/0221-maximal-square) |
+| [0241-different-ways-to-add-parentheses](https://github.com/SparshaPrakash/Leetcode_/tree/master/0241-different-ways-to-add-parentheses) |
 | [0279-perfect-squares](https://github.com/SparshaPrakash/Leetcode_/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/SparshaPrakash/Leetcode_/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/SparshaPrakash/Leetcode_/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -281,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/SparshaPrakash/Leetcode_/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/SparshaPrakash/Leetcode_/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/SparshaPrakash/Leetcode_/tree/master/0070-climbing-stairs) |
+| [0241-different-ways-to-add-parentheses](https://github.com/SparshaPrakash/Leetcode_/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/SparshaPrakash/Leetcode_/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/SparshaPrakash/Leetcode_/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/SparshaPrakash/Leetcode_/tree/master/0343-integer-break) |
@@ -293,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0070-climbing-stairs](https://github.com/SparshaPrakash/Leetcode_/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/SparshaPrakash/Leetcode_/tree/master/0139-word-break) |
+| [0241-different-ways-to-add-parentheses](https://github.com/SparshaPrakash/Leetcode_/tree/master/0241-different-ways-to-add-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SparshaPrakash/Leetcode_/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Two Pointers
 |  |
@@ -389,6 +393,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/SparshaPrakash/Leetcode_/tree/master/0010-regular-expression-matching) |
+| [0241-different-ways-to-add-parentheses](https://github.com/SparshaPrakash/Leetcode_/tree/master/0241-different-ways-to-add-parentheses) |
 | [0394-decode-string](https://github.com/SparshaPrakash/Leetcode_/tree/master/0394-decode-string) |
 ## Design
 |  |
