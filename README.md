@@ -312,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/SparshaPrakash/Leetcode_/tree/master/0005-longest-palindromic-substring) |
 | [0018-4sum](https://github.com/SparshaPrakash/Leetcode_/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/SparshaPrakash/Leetcode_/tree/master/0031-next-permutation) |
+| [0061-rotate-list](https://github.com/SparshaPrakash/Leetcode_/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/SparshaPrakash/Leetcode_/tree/master/0075-sort-colors) |
 | [0253-meeting-rooms-ii](https://github.com/SparshaPrakash/Leetcode_/tree/master/0253-meeting-rooms-ii) |
 | [0295-find-median-from-data-stream](https://github.com/SparshaPrakash/Leetcode_/tree/master/0295-find-median-from-data-stream) |
@@ -500,6 +501,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/SparshaPrakash/Leetcode_/tree/master/0061-rotate-list) |
 | [0355-design-twitter](https://github.com/SparshaPrakash/Leetcode_/tree/master/0355-design-twitter) |
 ## Prefix Sum
 |  |
