@@ -299,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0279-perfect-squares](https://github.com/SparshaPrakash/Leetcode_/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/SparshaPrakash/Leetcode_/tree/master/0343-integer-break) |
 | [0371-sum-of-two-integers](https://github.com/SparshaPrakash/Leetcode_/tree/master/0371-sum-of-two-integers) |
+| [0593-valid-square](https://github.com/SparshaPrakash/Leetcode_/tree/master/0593-valid-square) |
 | [0909-stone-game](https://github.com/SparshaPrakash/Leetcode_/tree/master/0909-stone-game) |
 | [0976-minimum-area-rectangle](https://github.com/SparshaPrakash/Leetcode_/tree/master/0976-minimum-area-rectangle) |
 | [1014-k-closest-points-to-origin](https://github.com/SparshaPrakash/Leetcode_/tree/master/1014-k-closest-points-to-origin) |
@@ -456,6 +457,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Geometry
 |  |
 | ------- |
+| [0593-valid-square](https://github.com/SparshaPrakash/Leetcode_/tree/master/0593-valid-square) |
 | [0976-minimum-area-rectangle](https://github.com/SparshaPrakash/Leetcode_/tree/master/0976-minimum-area-rectangle) |
 | [1014-k-closest-points-to-origin](https://github.com/SparshaPrakash/Leetcode_/tree/master/1014-k-closest-points-to-origin) |
 ## Sorting
