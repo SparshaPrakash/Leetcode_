@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0494-target-sum](https://github.com/SparshaPrakash/Leetcode_/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/SparshaPrakash/Leetcode_/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/SparshaPrakash/Leetcode_/tree/master/0518-coin-change-ii) |
+| [0525-contiguous-array](https://github.com/SparshaPrakash/Leetcode_/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SparshaPrakash/Leetcode_/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SparshaPrakash/Leetcode_/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/SparshaPrakash/Leetcode_/tree/master/0621-task-scheduler) |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/SparshaPrakash/Leetcode_/tree/master/0268-missing-number) |
 | [0355-design-twitter](https://github.com/SparshaPrakash/Leetcode_/tree/master/0355-design-twitter) |
 | [0451-sort-characters-by-frequency](https://github.com/SparshaPrakash/Leetcode_/tree/master/0451-sort-characters-by-frequency) |
+| [0525-contiguous-array](https://github.com/SparshaPrakash/Leetcode_/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SparshaPrakash/Leetcode_/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/SparshaPrakash/Leetcode_/tree/master/0621-task-scheduler) |
 | [0768-partition-labels](https://github.com/SparshaPrakash/Leetcode_/tree/master/0768-partition-labels) |
@@ -503,6 +505,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0253-meeting-rooms-ii](https://github.com/SparshaPrakash/Leetcode_/tree/master/0253-meeting-rooms-ii) |
+| [0525-contiguous-array](https://github.com/SparshaPrakash/Leetcode_/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SparshaPrakash/Leetcode_/tree/master/0560-subarray-sum-equals-k) |
 | [2145-grid-game](https://github.com/SparshaPrakash/Leetcode_/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/SparshaPrakash/Leetcode_/tree/master/2358-number-of-ways-to-split-array) |
