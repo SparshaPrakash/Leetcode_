@@ -136,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0952-word-subsets](https://github.com/SparshaPrakash/Leetcode_/tree/master/0952-word-subsets) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/SparshaPrakash/Leetcode_/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1250-longest-common-subsequence](https://github.com/SparshaPrakash/Leetcode_/tree/master/1250-longest-common-subsequence) |
+| [2325-number-of-ways-to-select-buildings](https://github.com/SparshaPrakash/Leetcode_/tree/master/2325-number-of-ways-to-select-buildings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -178,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0909-stone-game](https://github.com/SparshaPrakash/Leetcode_/tree/master/0909-stone-game) |
 | [0943-sum-of-subarray-minimums](https://github.com/SparshaPrakash/Leetcode_/tree/master/0943-sum-of-subarray-minimums) |
 | [1250-longest-common-subsequence](https://github.com/SparshaPrakash/Leetcode_/tree/master/1250-longest-common-subsequence) |
+| [2325-number-of-ways-to-select-buildings](https://github.com/SparshaPrakash/Leetcode_/tree/master/2325-number-of-ways-to-select-buildings) |
 ## Backtracking
 |  |
 | ------- |
@@ -532,6 +534,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0525-contiguous-array](https://github.com/SparshaPrakash/Leetcode_/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SparshaPrakash/Leetcode_/tree/master/0560-subarray-sum-equals-k) |
 | [2145-grid-game](https://github.com/SparshaPrakash/Leetcode_/tree/master/2145-grid-game) |
+| [2325-number-of-ways-to-select-buildings](https://github.com/SparshaPrakash/Leetcode_/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2358-number-of-ways-to-split-array](https://github.com/SparshaPrakash/Leetcode_/tree/master/2358-number-of-ways-to-split-array) |
 ## Line Sweep
 |  |
