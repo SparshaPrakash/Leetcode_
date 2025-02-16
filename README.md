@@ -325,6 +325,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0031-next-permutation](https://github.com/SparshaPrakash/Leetcode_/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/SparshaPrakash/Leetcode_/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/SparshaPrakash/Leetcode_/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/SparshaPrakash/Leetcode_/tree/master/0148-sort-list) |
 | [0253-meeting-rooms-ii](https://github.com/SparshaPrakash/Leetcode_/tree/master/0253-meeting-rooms-ii) |
 | [0295-find-median-from-data-stream](https://github.com/SparshaPrakash/Leetcode_/tree/master/0295-find-median-from-data-stream) |
 | [0647-palindromic-substrings](https://github.com/SparshaPrakash/Leetcode_/tree/master/0647-palindromic-substrings) |
@@ -458,6 +459,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SparshaPrakash/Leetcode_/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/SparshaPrakash/Leetcode_/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/SparshaPrakash/Leetcode_/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/SparshaPrakash/Leetcode_/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SparshaPrakash/Leetcode_/tree/master/0215-kth-largest-element-in-an-array) |
@@ -475,6 +477,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/SparshaPrakash/Leetcode_/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/SparshaPrakash/Leetcode_/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/SparshaPrakash/Leetcode_/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/SparshaPrakash/Leetcode_/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SparshaPrakash/Leetcode_/tree/master/0215-kth-largest-element-in-an-array) |
 | [0252-meeting-rooms](https://github.com/SparshaPrakash/Leetcode_/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/SparshaPrakash/Leetcode_/tree/master/0253-meeting-rooms-ii) |
@@ -498,6 +501,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/SparshaPrakash/Leetcode_/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/SparshaPrakash/Leetcode_/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -519,6 +523,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/SparshaPrakash/Leetcode_/tree/master/0061-rotate-list) |
+| [0148-sort-list](https://github.com/SparshaPrakash/Leetcode_/tree/master/0148-sort-list) |
 | [0355-design-twitter](https://github.com/SparshaPrakash/Leetcode_/tree/master/0355-design-twitter) |
 ## Prefix Sum
 |  |
