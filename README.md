@@ -112,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0010-regular-expression-matching](https://github.com/SparshaPrakash/Leetcode_/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SparshaPrakash/Leetcode_/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/SparshaPrakash/Leetcode_/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/SparshaPrakash/Leetcode_/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/SparshaPrakash/Leetcode_/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/SparshaPrakash/Leetcode_/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/SparshaPrakash/Leetcode_/tree/master/0091-decode-ways) |
@@ -142,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SparshaPrakash/Leetcode_/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/SparshaPrakash/Leetcode_/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/SparshaPrakash/Leetcode_/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/SparshaPrakash/Leetcode_/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/SparshaPrakash/Leetcode_/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/SparshaPrakash/Leetcode_/tree/master/0055-jump-game) |
@@ -184,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SparshaPrakash/Leetcode_/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/SparshaPrakash/Leetcode_/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/SparshaPrakash/Leetcode_/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/SparshaPrakash/Leetcode_/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/SparshaPrakash/Leetcode_/tree/master/0046-permutations) |
