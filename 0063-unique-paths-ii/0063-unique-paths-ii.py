@@ -12,7 +12,4 @@ class Solution:
 
             dp[(r,c)] = dfs(r + 1, c) + dfs(r, c + 1)
             return dp[(r, c)]
-
-            dp.append(r,c)
-
         return dfs(0, 0)
