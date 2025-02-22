@@ -3,19 +3,16 @@ class Solution:
         if not prices:
             return 0
         
-        min_buy = prices[0]  # Start with the first price as the initial minimum price
-        mx_profit = 0  # Initialize the maximum profit as 0
+        n = len(prices)
+        dp = [0] * n  # Create an array to store the maximum profit on each day
         
-        for i in range(1, len(prices)):  # Start from the second price onward
-            # Calculate profit if sold at current price
-            profit = prices[i] - min_buy
-            
-            # Update maximum profit
-            mx_profit = max(mx_profit, profit)
-            
-            # Update minimum buy price if a lower price is found
-            min_buy = min(min_buy, prices[i])
+        min_buy = prices[0]  # Initialize the first price as the minimum buy price
+
+        for i in range(1, n):
+            # Calculate the profit if we sell at the current price
+            dp[i] = max(dp[i-1], prices[i] - min_buy)  # Keep the max profit so far
+            min_buy = min(min_buy, prices[i])  # Update the min price if a new low is found
         
-        return mx_profit
+        return dp[-1]  # The last element in dp will have the maximum profit
 
         
