@@ -1,18 +1,17 @@
 class Solution:
     def minFallingPathSum(self, matrix):
         """
-        Find the minimum falling path sum for a given matrix using a bottom-up approach with O(n) space.
-
-        :param matrix: List[List[int]] - a square matrix of integers
+        Bottom-up approach to find the minimum falling path sum.
+        :param matrix: List[List[int]] - square matrix of integers
         :return: int - the minimum falling path sum
         """
         N = len(matrix)
 
-        for r in range(1, N):
+        for r in range(N - 2, -1, -1):  # Start from second-last row
             for c in range(N):
-                mid = matrix[r - 1][c]
-                left = matrix[r - 1][c - 1] if c > 0 else float("inf")
-                right = matrix[r - 1][c + 1] if c < N - 1 else float("inf")
-                matrix[r][c] = matrix[r][c] + min(mid, left, right)
-        return min(matrix[-1])
-        
+                mid = matrix[r + 1][c]  # Below cell
+                left = matrix[r + 1][c - 1] if c > 0 else float("inf")  # Below-left
+                right = matrix[r + 1][c + 1] if c < N - 1 else float("inf")  # Below-right
+                matrix[r][c] += min(mid, left, right)  # Update the current cell
+
+        return min(matrix[0])  # The answer is the min value in the first row
