@@ -10,25 +10,21 @@ class Solution:
         def dfs(i, buying):
             if i >= len(prices):
                 return 0
-            if(i, buying) in dp:
+            if (i, buying) in dp:
                 return dp[(i, buying)]
 
             if buying:
-                # Buy the stock
-                buy = dfs(i + 1, not buying) - prices[i] # after buying, we will be in a state of not buying
-                # Cooldown (skip buying)
-                cooldown = dfs(i +1, buying)
+                buy = dfs(i + 1, not buying) - prices[i] # checking what the profit owuld be if we were buying
+                cooldown = dfs(i + 1, buying)
                 dp[(i, buying)] = max(buy, cooldown)
-
             else:
-                # sell the stock
                 sell = dfs(i + 2, not buying) + prices[i]
-                 # Cooldown (skip selling)
                 cooldown = dfs(i + 1, buying)
                 dp[(i, buying)] = max(sell, cooldown)
 
             return dp[(i, buying)]
-
         return dfs(0, True)
 
 
+
+       
