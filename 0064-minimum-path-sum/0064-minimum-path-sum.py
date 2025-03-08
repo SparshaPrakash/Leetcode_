@@ -12,3 +12,4 @@ class Solution:
                 else:
                     dp[j] = grid[i][j]
         return dp[0]
+        
