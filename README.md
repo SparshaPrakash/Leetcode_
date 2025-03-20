@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0952-word-subsets](https://github.com/SparshaPrakash/Leetcode_/tree/master/0952-word-subsets) |
 | [0967-minimum-falling-path-sum](https://github.com/SparshaPrakash/Leetcode_/tree/master/0967-minimum-falling-path-sum) |
 | [0976-minimum-area-rectangle](https://github.com/SparshaPrakash/Leetcode_/tree/master/0976-minimum-area-rectangle) |
+| [0990-verifying-an-alien-dictionary](https://github.com/SparshaPrakash/Leetcode_/tree/master/0990-verifying-an-alien-dictionary) |
 | [1014-k-closest-points-to-origin](https://github.com/SparshaPrakash/Leetcode_/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/SparshaPrakash/Leetcode_/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/SparshaPrakash/Leetcode_/tree/master/1073-number-of-enclaves) |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0876-hand-of-straights](https://github.com/SparshaPrakash/Leetcode_/tree/master/0876-hand-of-straights) |
 | [0952-word-subsets](https://github.com/SparshaPrakash/Leetcode_/tree/master/0952-word-subsets) |
 | [0976-minimum-area-rectangle](https://github.com/SparshaPrakash/Leetcode_/tree/master/0976-minimum-area-rectangle) |
+| [0990-verifying-an-alien-dictionary](https://github.com/SparshaPrakash/Leetcode_/tree/master/0990-verifying-an-alien-dictionary) |
 ## String
 |  |
 | ------- |
@@ -140,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0768-partition-labels](https://github.com/SparshaPrakash/Leetcode_/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/SparshaPrakash/Leetcode_/tree/master/0778-reorganize-string) |
 | [0952-word-subsets](https://github.com/SparshaPrakash/Leetcode_/tree/master/0952-word-subsets) |
+| [0990-verifying-an-alien-dictionary](https://github.com/SparshaPrakash/Leetcode_/tree/master/0990-verifying-an-alien-dictionary) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/SparshaPrakash/Leetcode_/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1250-longest-common-subsequence](https://github.com/SparshaPrakash/Leetcode_/tree/master/1250-longest-common-subsequence) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/SparshaPrakash/Leetcode_/tree/master/2325-number-of-ways-to-select-buildings) |
