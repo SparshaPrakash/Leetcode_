@@ -1,12 +1,5 @@
 class Solution:
     def alienOrder(self, words: List[str]) -> str:
-        # check the first 2 words -> check the first letter, add it to the graph, check the next to and add it according to the lexicographical order
-
-        # wrt; wrf
-        # compare w and w -> add w
-        # compare r and r -> add r -> w, r
-        # comapre t and f -> add them in order -> w, r, t, f
-        
         adj = {c: set() for w in words for c in w}
 
         for i in range(len(words) - 1):
@@ -46,6 +39,4 @@ class Solution:
 
         res.reverse()
         return "".join(res)
-
-
         
