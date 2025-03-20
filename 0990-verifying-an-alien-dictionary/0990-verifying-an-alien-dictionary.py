@@ -17,7 +17,7 @@ class Solution:
                 if w1[j] != w2[j]:
                     if order_map[w2[j]] < order_map[w1[j]]:
                         return False
-                    break
+                    break # we stop checking these 2 words
 
         return True
         
