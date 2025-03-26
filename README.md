@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/SparshaPrakash/Leetcode_/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/SparshaPrakash/Leetcode_/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/SparshaPrakash/Leetcode_/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/SparshaPrakash/Leetcode_/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/SparshaPrakash/Leetcode_/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/SparshaPrakash/Leetcode_/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/SparshaPrakash/Leetcode_/tree/master/0212-word-search-ii) |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0127-word-ladder](https://github.com/SparshaPrakash/Leetcode_/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/SparshaPrakash/Leetcode_/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/SparshaPrakash/Leetcode_/tree/master/0139-word-break) |
+| [0169-majority-element](https://github.com/SparshaPrakash/Leetcode_/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/SparshaPrakash/Leetcode_/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/SparshaPrakash/Leetcode_/tree/master/0208-implement-trie-prefix-tree) |
 | [0268-missing-number](https://github.com/SparshaPrakash/Leetcode_/tree/master/0268-missing-number) |
@@ -493,6 +495,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0053-maximum-subarray](https://github.com/SparshaPrakash/Leetcode_/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/SparshaPrakash/Leetcode_/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/SparshaPrakash/Leetcode_/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/SparshaPrakash/Leetcode_/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/SparshaPrakash/Leetcode_/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SparshaPrakash/Leetcode_/tree/master/0215-kth-largest-element-in-an-array) |
@@ -512,6 +515,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/SparshaPrakash/Leetcode_/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SparshaPrakash/Leetcode_/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/SparshaPrakash/Leetcode_/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/SparshaPrakash/Leetcode_/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SparshaPrakash/Leetcode_/tree/master/0215-kth-largest-element-in-an-array) |
 | [0252-meeting-rooms](https://github.com/SparshaPrakash/Leetcode_/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/SparshaPrakash/Leetcode_/tree/master/0253-meeting-rooms-ii) |
@@ -549,6 +553,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SparshaPrakash/Leetcode_/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/SparshaPrakash/Leetcode_/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/SparshaPrakash/Leetcode_/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/SparshaPrakash/Leetcode_/tree/master/0778-reorganize-string) |
