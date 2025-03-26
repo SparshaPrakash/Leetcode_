@@ -1,13 +1,23 @@
+from typing import List
+
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
-        count = {}
-        res, maxCount = 0, 0
+        res, count = 0, 0
 
         for n in nums:
-            count[n] = 1 + count.get(n, 0)
-            if count[n] > maxCount:
+            if count == 0:
                 res = n
-            maxCount = max(count[n], maxCount)
+            if n == res:
+                count += 1
+            else:
+                count -= 1
+
+        # Optional: Double-check if 'res' is truly the majority
+        # count = sum(1 for num in nums if num == res)
+        # if count > len(nums) // 2:
+        #     return res
+        # else:
+        #     return -1
 
         return res
 
