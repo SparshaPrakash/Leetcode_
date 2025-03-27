@@ -1,13 +1,18 @@
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
-        max_profit = 0
-        buy = prices[0]
+        if not prices:
+            return 0
 
-        for price in prices:
-            buy = min(buy, price)
-            max_profit = max(max_profit, price - buy)
+        n = len(prices)
+        dp = [0] * n
 
-        return max_profit
+        min_buy = prices[0]
+
+        for i in range(1, n):
+            dp[i] = max(dp[i - 1], prices[i] - min_buy)
+            min_buy = min(min_buy, prices[i])
+
+        return dp[-1]
 
 
 
