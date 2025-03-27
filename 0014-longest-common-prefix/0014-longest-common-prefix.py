@@ -1,5 +1,9 @@
 class Solution:
     def longestCommonPrefix(self, strs: List[str]) -> str:
+
+        if not strs:
+            return ""
+
         res = ""
 
         # we'll take an arbitrary string to iterate through
