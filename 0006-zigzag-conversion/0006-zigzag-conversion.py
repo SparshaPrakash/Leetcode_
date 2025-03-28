@@ -3,12 +3,20 @@ class Solution:
         if numRows == 1:
             return s
 
-        res = ""
-        for r in range(numRows):
-            increment = 2 * (numRows - 1)
-            for i in range(r, len(s), increment):
-                res += s[i]
-                if(r > 0 and r < numRows - 1 and i + increment - 2 * r < len(s)):
-                    res += s[i + increment - 2 * r]
+        i, d = 0, 1
+        rows = [[] for _ in range(numRows)]
 
-        return res
+        for char in s:
+            rows[i].append(char)
+            if i == 0:
+                d = 1
+            elif i == numRows - 1:
+                d = -1
+            i += d
+
+        for i in range(numRows):
+            rows[i] = ''.join(rows[i])
+
+        return ''.join(rows)
+        # Time: O(n * numRows)
+        # Space: O(n)   
