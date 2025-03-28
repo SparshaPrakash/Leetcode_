@@ -136,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0127-word-ladder](https://github.com/SparshaPrakash/Leetcode_/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/SparshaPrakash/Leetcode_/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/SparshaPrakash/Leetcode_/tree/master/0139-word-break) |
+| [0151-reverse-words-in-a-string](https://github.com/SparshaPrakash/Leetcode_/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/SparshaPrakash/Leetcode_/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/SparshaPrakash/Leetcode_/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/SparshaPrakash/Leetcode_/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -364,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SparshaPrakash/Leetcode_/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/SparshaPrakash/Leetcode_/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/SparshaPrakash/Leetcode_/tree/master/0148-sort-list) |
+| [0151-reverse-words-in-a-string](https://github.com/SparshaPrakash/Leetcode_/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/SparshaPrakash/Leetcode_/tree/master/0189-rotate-array) |
 | [0253-meeting-rooms-ii](https://github.com/SparshaPrakash/Leetcode_/tree/master/0253-meeting-rooms-ii) |
 | [0295-find-median-from-data-stream](https://github.com/SparshaPrakash/Leetcode_/tree/master/0295-find-median-from-data-stream) |
