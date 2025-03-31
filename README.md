@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SparshaPrakash/Leetcode_/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/SparshaPrakash/Leetcode_/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/SparshaPrakash/Leetcode_/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SparshaPrakash/Leetcode_/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SparshaPrakash/Leetcode_/tree/master/0027-remove-element) |
@@ -249,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SparshaPrakash/Leetcode_/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/SparshaPrakash/Leetcode_/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/SparshaPrakash/Leetcode_/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SparshaPrakash/Leetcode_/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -373,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SparshaPrakash/Leetcode_/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/SparshaPrakash/Leetcode_/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/SparshaPrakash/Leetcode_/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SparshaPrakash/Leetcode_/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SparshaPrakash/Leetcode_/tree/master/0027-remove-element) |
