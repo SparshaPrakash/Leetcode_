@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SparshaPrakash/Leetcode_/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/SparshaPrakash/Leetcode_/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/SparshaPrakash/Leetcode_/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/SparshaPrakash/Leetcode_/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/SparshaPrakash/Leetcode_/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/SparshaPrakash/Leetcode_/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/SparshaPrakash/Leetcode_/tree/master/0047-permutations-ii) |
@@ -169,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/SparshaPrakash/Leetcode_/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/SparshaPrakash/Leetcode_/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/SparshaPrakash/Leetcode_/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/SparshaPrakash/Leetcode_/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/SparshaPrakash/Leetcode_/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/SparshaPrakash/Leetcode_/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/SparshaPrakash/Leetcode_/tree/master/0055-jump-game) |
@@ -234,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SparshaPrakash/Leetcode_/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/SparshaPrakash/Leetcode_/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/SparshaPrakash/Leetcode_/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/SparshaPrakash/Leetcode_/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/SparshaPrakash/Leetcode_/tree/master/0678-valid-parenthesis-string) |
@@ -259,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/SparshaPrakash/Leetcode_/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/SparshaPrakash/Leetcode_/tree/master/0316-remove-duplicate-letters) |
 | [0739-daily-temperatures](https://github.com/SparshaPrakash/Leetcode_/tree/master/0739-daily-temperatures) |
 | [0943-sum-of-subarray-minimums](https://github.com/SparshaPrakash/Leetcode_/tree/master/0943-sum-of-subarray-minimums) |
@@ -371,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/SparshaPrakash/Leetcode_/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SparshaPrakash/Leetcode_/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/SparshaPrakash/Leetcode_/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/SparshaPrakash/Leetcode_/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/SparshaPrakash/Leetcode_/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/SparshaPrakash/Leetcode_/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SparshaPrakash/Leetcode_/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
