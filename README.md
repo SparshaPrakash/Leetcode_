@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SparshaPrakash/Leetcode_/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/SparshaPrakash/Leetcode_/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SparshaPrakash/Leetcode_/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SparshaPrakash/Leetcode_/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/SparshaPrakash/Leetcode_/tree/master/0073-set-matrix-zeroes) |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/SparshaPrakash/Leetcode_/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/SparshaPrakash/Leetcode_/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/SparshaPrakash/Leetcode_/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/SparshaPrakash/Leetcode_/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SparshaPrakash/Leetcode_/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/SparshaPrakash/Leetcode_/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SparshaPrakash/Leetcode_/tree/master/0017-letter-combinations-of-a-phone-number) |
@@ -338,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/SparshaPrakash/Leetcode_/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/SparshaPrakash/Leetcode_/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SparshaPrakash/Leetcode_/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/SparshaPrakash/Leetcode_/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/SparshaPrakash/Leetcode_/tree/master/0062-unique-paths) |
