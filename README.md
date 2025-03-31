@@ -154,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0241-different-ways-to-add-parentheses](https://github.com/SparshaPrakash/Leetcode_/tree/master/0241-different-ways-to-add-parentheses) |
 | [0269-alien-dictionary](https://github.com/SparshaPrakash/Leetcode_/tree/master/0269-alien-dictionary) |
 | [0316-remove-duplicate-letters](https://github.com/SparshaPrakash/Leetcode_/tree/master/0316-remove-duplicate-letters) |
+| [0392-is-subsequence](https://github.com/SparshaPrakash/Leetcode_/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/SparshaPrakash/Leetcode_/tree/master/0394-decode-string) |
 | [0451-sort-characters-by-frequency](https://github.com/SparshaPrakash/Leetcode_/tree/master/0451-sort-characters-by-frequency) |
 | [0647-palindromic-substrings](https://github.com/SparshaPrakash/Leetcode_/tree/master/0647-palindromic-substrings) |
@@ -203,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0338-counting-bits](https://github.com/SparshaPrakash/Leetcode_/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/SparshaPrakash/Leetcode_/tree/master/0343-integer-break) |
 | [0377-combination-sum-iv](https://github.com/SparshaPrakash/Leetcode_/tree/master/0377-combination-sum-iv) |
+| [0392-is-subsequence](https://github.com/SparshaPrakash/Leetcode_/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/SparshaPrakash/Leetcode_/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/SparshaPrakash/Leetcode_/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/SparshaPrakash/Leetcode_/tree/master/0494-target-sum) |
@@ -387,6 +389,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/SparshaPrakash/Leetcode_/tree/master/0189-rotate-array) |
 | [0253-meeting-rooms-ii](https://github.com/SparshaPrakash/Leetcode_/tree/master/0253-meeting-rooms-ii) |
 | [0295-find-median-from-data-stream](https://github.com/SparshaPrakash/Leetcode_/tree/master/0295-find-median-from-data-stream) |
+| [0392-is-subsequence](https://github.com/SparshaPrakash/Leetcode_/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/SparshaPrakash/Leetcode_/tree/master/0647-palindromic-substrings) |
 | [0768-partition-labels](https://github.com/SparshaPrakash/Leetcode_/tree/master/0768-partition-labels) |
 ## Breadth-First Search
