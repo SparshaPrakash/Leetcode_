@@ -3,30 +3,27 @@ class Solution:
         """
         Do not return anything, modify matrix in-place instead.
         """
-        ROWS, COLS = len(matrix), len(matrix[0])
-        rowZero = False
-
-        # determine which rows/cols need to be zero
-        for r in range(ROWS):
-            for c in range(COLS):
-                if matrix[r][c] == 0:
-                    matrix[0][c] = 0
-
-                    if r > 0:
-                        matrix[r][0] = 0
-                    else:
-                        rowZero = True
+        row_flag = col_flag = False
+        rows = len(matrix)
+        cols = len(matrix[0])
         
-
-        for r in range(1, ROWS):
-            for c in range(1, COLS):
-                if matrix[0][c] == 0 or matrix[r][0] == 0:
-                    matrix[r][c]= 0
-
-        if matrix[0][0] == 0:
-            for r in range(ROWS):
-                matrix[r][0] = 0
-
-        if rowZero:
-            for c in range(COLS):
-                matrix[0][c] = 0
+        for row in range(rows):
+            for col in range(cols):
+                if matrix[row][col] == 0:
+                    if row == 0:
+                        row_flag = True
+                    if col == 0:
+                        col_flag = True
+                    elif row!= 0 and col!= 0:
+                        matrix[row][0] = 0
+                        matrix[0][col] = 0
+                        
+        for row in range(1, rows):
+            for col in range(1, cols):
+                if matrix[row][0] == 0 or matrix[0][col] == 0:
+                    matrix[row][col] = 0
+        if row_flag:
+            matrix[0] = [0]*cols
+        if col_flag:
+            for row in range(rows):
+                matrix[row][0] = 0
