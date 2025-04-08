@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/SparshaPrakash/Leetcode_/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/SparshaPrakash/Leetcode_/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SparshaPrakash/Leetcode_/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0036-valid-sudoku](https://github.com/SparshaPrakash/Leetcode_/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/SparshaPrakash/Leetcode_/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/SparshaPrakash/Leetcode_/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/SparshaPrakash/Leetcode_/tree/master/0042-trapping-rain-water) |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/SparshaPrakash/Leetcode_/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SparshaPrakash/Leetcode_/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SparshaPrakash/Leetcode_/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/SparshaPrakash/Leetcode_/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/SparshaPrakash/Leetcode_/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/SparshaPrakash/Leetcode_/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/SparshaPrakash/Leetcode_/tree/master/0133-clone-graph) |
@@ -331,6 +333,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/SparshaPrakash/Leetcode_/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/SparshaPrakash/Leetcode_/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/SparshaPrakash/Leetcode_/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/SparshaPrakash/Leetcode_/tree/master/0063-unique-paths-ii) |
