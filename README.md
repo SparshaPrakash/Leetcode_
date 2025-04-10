@@ -119,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/SparshaPrakash/Leetcode_/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/SparshaPrakash/Leetcode_/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/SparshaPrakash/Leetcode_/tree/master/0187-repeated-dna-sequences) |
+| [0205-isomorphic-strings](https://github.com/SparshaPrakash/Leetcode_/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/SparshaPrakash/Leetcode_/tree/master/0208-implement-trie-prefix-tree) |
 | [0268-missing-number](https://github.com/SparshaPrakash/Leetcode_/tree/master/0268-missing-number) |
 | [0355-design-twitter](https://github.com/SparshaPrakash/Leetcode_/tree/master/0355-design-twitter) |
@@ -160,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/SparshaPrakash/Leetcode_/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/SparshaPrakash/Leetcode_/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/SparshaPrakash/Leetcode_/tree/master/0187-repeated-dna-sequences) |
+| [0205-isomorphic-strings](https://github.com/SparshaPrakash/Leetcode_/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/SparshaPrakash/Leetcode_/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/SparshaPrakash/Leetcode_/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/SparshaPrakash/Leetcode_/tree/master/0212-word-search-ii) |
