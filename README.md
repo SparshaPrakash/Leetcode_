@@ -122,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/SparshaPrakash/Leetcode_/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/SparshaPrakash/Leetcode_/tree/master/0208-implement-trie-prefix-tree) |
 | [0268-missing-number](https://github.com/SparshaPrakash/Leetcode_/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/SparshaPrakash/Leetcode_/tree/master/0290-word-pattern) |
 | [0355-design-twitter](https://github.com/SparshaPrakash/Leetcode_/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/SparshaPrakash/Leetcode_/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/SparshaPrakash/Leetcode_/tree/master/0383-ransom-note) |
@@ -167,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0212-word-search-ii](https://github.com/SparshaPrakash/Leetcode_/tree/master/0212-word-search-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SparshaPrakash/Leetcode_/tree/master/0241-different-ways-to-add-parentheses) |
 | [0269-alien-dictionary](https://github.com/SparshaPrakash/Leetcode_/tree/master/0269-alien-dictionary) |
+| [0290-word-pattern](https://github.com/SparshaPrakash/Leetcode_/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/SparshaPrakash/Leetcode_/tree/master/0316-remove-duplicate-letters) |
 | [0383-ransom-note](https://github.com/SparshaPrakash/Leetcode_/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/SparshaPrakash/Leetcode_/tree/master/0392-is-subsequence) |
