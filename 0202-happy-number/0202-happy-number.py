@@ -10,7 +10,7 @@ class Solution:
                 return True
         return False
 
-    def sumOfSquares(self, n:int):
+    def sumOfSquares(self, n):
         output = 0
 
         while n:
