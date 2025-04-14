@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/SparshaPrakash/Leetcode_/tree/master/0435-non-overlapping-intervals) |
 | [0463-island-perimeter](https://github.com/SparshaPrakash/Leetcode_/tree/master/0463-island-perimeter) |
 | [0494-target-sum](https://github.com/SparshaPrakash/Leetcode_/tree/master/0494-target-sum) |
+| [0496-next-greater-element-i](https://github.com/SparshaPrakash/Leetcode_/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/SparshaPrakash/Leetcode_/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/SparshaPrakash/Leetcode_/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/SparshaPrakash/Leetcode_/tree/master/0525-contiguous-array) |
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0380-insert-delete-getrandom-o1](https://github.com/SparshaPrakash/Leetcode_/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/SparshaPrakash/Leetcode_/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/SparshaPrakash/Leetcode_/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/SparshaPrakash/Leetcode_/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/SparshaPrakash/Leetcode_/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SparshaPrakash/Leetcode_/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/SparshaPrakash/Leetcode_/tree/master/0621-task-scheduler) |
@@ -266,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/SparshaPrakash/Leetcode_/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/SparshaPrakash/Leetcode_/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/SparshaPrakash/Leetcode_/tree/master/0394-decode-string) |
+| [0496-next-greater-element-i](https://github.com/SparshaPrakash/Leetcode_/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/SparshaPrakash/Leetcode_/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/SparshaPrakash/Leetcode_/tree/master/0739-daily-temperatures) |
 | [0943-sum-of-subarray-minimums](https://github.com/SparshaPrakash/Leetcode_/tree/master/0943-sum-of-subarray-minimums) |
@@ -293,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SparshaPrakash/Leetcode_/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/SparshaPrakash/Leetcode_/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/SparshaPrakash/Leetcode_/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/SparshaPrakash/Leetcode_/tree/master/0739-daily-temperatures) |
 | [0943-sum-of-subarray-minimums](https://github.com/SparshaPrakash/Leetcode_/tree/master/0943-sum-of-subarray-minimums) |
 ## Tree
