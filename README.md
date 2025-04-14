@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/SparshaPrakash/Leetcode_/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/SparshaPrakash/Leetcode_/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/SparshaPrakash/Leetcode_/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/SparshaPrakash/Leetcode_/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/SparshaPrakash/Leetcode_/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/SparshaPrakash/Leetcode_/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/SparshaPrakash/Leetcode_/tree/master/0054-spiral-matrix) |
@@ -116,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/SparshaPrakash/Leetcode_/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SparshaPrakash/Leetcode_/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/SparshaPrakash/Leetcode_/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/SparshaPrakash/Leetcode_/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/SparshaPrakash/Leetcode_/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/SparshaPrakash/Leetcode_/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/SparshaPrakash/Leetcode_/tree/master/0128-longest-consecutive-sequence) |
@@ -158,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/SparshaPrakash/Leetcode_/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/SparshaPrakash/Leetcode_/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SparshaPrakash/Leetcode_/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/SparshaPrakash/Leetcode_/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/SparshaPrakash/Leetcode_/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/SparshaPrakash/Leetcode_/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/SparshaPrakash/Leetcode_/tree/master/0079-word-search) |
@@ -582,6 +585,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/SparshaPrakash/Leetcode_/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/SparshaPrakash/Leetcode_/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/SparshaPrakash/Leetcode_/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/SparshaPrakash/Leetcode_/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/SparshaPrakash/Leetcode_/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SparshaPrakash/Leetcode_/tree/master/0088-merge-sorted-array) |
