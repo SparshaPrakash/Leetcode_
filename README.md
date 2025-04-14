@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0120-triangle](https://github.com/SparshaPrakash/Leetcode_/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SparshaPrakash/Leetcode_/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SparshaPrakash/Leetcode_/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/SparshaPrakash/Leetcode_/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/SparshaPrakash/Leetcode_/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/SparshaPrakash/Leetcode_/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/SparshaPrakash/Leetcode_/tree/master/0135-candy) |
@@ -116,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/SparshaPrakash/Leetcode_/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/SparshaPrakash/Leetcode_/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/SparshaPrakash/Leetcode_/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/SparshaPrakash/Leetcode_/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/SparshaPrakash/Leetcode_/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/SparshaPrakash/Leetcode_/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/SparshaPrakash/Leetcode_/tree/master/0169-majority-element) |
@@ -474,6 +476,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/SparshaPrakash/Leetcode_/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/SparshaPrakash/Leetcode_/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/SparshaPrakash/Leetcode_/tree/master/0200-number-of-islands) |
 | [0261-graph-valid-tree](https://github.com/SparshaPrakash/Leetcode_/tree/master/0261-graph-valid-tree) |
