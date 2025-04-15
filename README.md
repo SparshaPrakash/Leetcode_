@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0216-combination-sum-iii](https://github.com/SparshaPrakash/Leetcode_/tree/master/0216-combination-sum-iii) |
 | [0219-contains-duplicate-ii](https://github.com/SparshaPrakash/Leetcode_/tree/master/0219-contains-duplicate-ii) |
 | [0221-maximal-square](https://github.com/SparshaPrakash/Leetcode_/tree/master/0221-maximal-square) |
+| [0228-summary-ranges](https://github.com/SparshaPrakash/Leetcode_/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/SparshaPrakash/Leetcode_/tree/master/0238-product-of-array-except-self) |
 | [0252-meeting-rooms](https://github.com/SparshaPrakash/Leetcode_/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/SparshaPrakash/Leetcode_/tree/master/0253-meeting-rooms-ii) |
