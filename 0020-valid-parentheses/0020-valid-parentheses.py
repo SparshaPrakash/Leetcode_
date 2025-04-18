@@ -1,15 +1,19 @@
 class Solution(object):
     def isValid(self, s):
         stack = []
-        stackList = {")" : "(", "]" : "[", "}" : "{"}
+        pairs = {")":"(", "}":"{", "]":"["}
 
         for c in s:
-            if c in stackList:
-                if stack and stack[-1] == stackList[c]:
+            if c in pairs:  # means its a closing parenthesis
+                if stack and stack[-1]  == pairs[c]:    # stack shousnt be emtpty
                     stack.pop()
                 else:
                     return False
+
             else:
                 stack.append(c)
 
         return True if not stack else False
+        
+
+
