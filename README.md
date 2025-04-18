@@ -273,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/SparshaPrakash/Leetcode_/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SparshaPrakash/Leetcode_/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/SparshaPrakash/Leetcode_/tree/master/0071-simplify-path) |
+| [0155-min-stack](https://github.com/SparshaPrakash/Leetcode_/tree/master/0155-min-stack) |
 | [0316-remove-duplicate-letters](https://github.com/SparshaPrakash/Leetcode_/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/SparshaPrakash/Leetcode_/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/SparshaPrakash/Leetcode_/tree/master/0496-next-greater-element-i) |
@@ -534,6 +535,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/SparshaPrakash/Leetcode_/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/SparshaPrakash/Leetcode_/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/SparshaPrakash/Leetcode_/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/SparshaPrakash/Leetcode_/tree/master/0295-find-median-from-data-stream) |
