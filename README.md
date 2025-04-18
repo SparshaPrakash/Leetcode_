@@ -532,6 +532,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/SparshaPrakash/Leetcode_/tree/master/0010-regular-expression-matching) |
+| [0021-merge-two-sorted-lists](https://github.com/SparshaPrakash/Leetcode_/tree/master/0021-merge-two-sorted-lists) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SparshaPrakash/Leetcode_/tree/master/0241-different-ways-to-add-parentheses) |
 | [0394-decode-string](https://github.com/SparshaPrakash/Leetcode_/tree/master/0394-decode-string) |
 ## Design
@@ -648,6 +649,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/SparshaPrakash/Leetcode_/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/SparshaPrakash/Leetcode_/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/SparshaPrakash/Leetcode_/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/SparshaPrakash/Leetcode_/tree/master/0148-sort-list) |
