@@ -391,6 +391,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/SparshaPrakash/Leetcode_/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/SparshaPrakash/Leetcode_/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/SparshaPrakash/Leetcode_/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SparshaPrakash/Leetcode_/tree/master/0013-roman-to-integer) |
@@ -537,6 +538,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/SparshaPrakash/Leetcode_/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/SparshaPrakash/Leetcode_/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/SparshaPrakash/Leetcode_/tree/master/0021-merge-two-sorted-lists) |
 | [0224-basic-calculator](https://github.com/SparshaPrakash/Leetcode_/tree/master/0224-basic-calculator) |
@@ -656,6 +658,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/SparshaPrakash/Leetcode_/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/SparshaPrakash/Leetcode_/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/SparshaPrakash/Leetcode_/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/SparshaPrakash/Leetcode_/tree/master/0141-linked-list-cycle) |
