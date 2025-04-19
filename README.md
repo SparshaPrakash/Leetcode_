@@ -182,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0208-implement-trie-prefix-tree](https://github.com/SparshaPrakash/Leetcode_/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/SparshaPrakash/Leetcode_/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/SparshaPrakash/Leetcode_/tree/master/0212-word-search-ii) |
+| [0224-basic-calculator](https://github.com/SparshaPrakash/Leetcode_/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SparshaPrakash/Leetcode_/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/SparshaPrakash/Leetcode_/tree/master/0242-valid-anagram) |
 | [0269-alien-dictionary](https://github.com/SparshaPrakash/Leetcode_/tree/master/0269-alien-dictionary) |
@@ -277,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0071-simplify-path](https://github.com/SparshaPrakash/Leetcode_/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SparshaPrakash/Leetcode_/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/SparshaPrakash/Leetcode_/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/SparshaPrakash/Leetcode_/tree/master/0224-basic-calculator) |
 | [0316-remove-duplicate-letters](https://github.com/SparshaPrakash/Leetcode_/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/SparshaPrakash/Leetcode_/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/SparshaPrakash/Leetcode_/tree/master/0496-next-greater-element-i) |
@@ -398,6 +400,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/SparshaPrakash/Leetcode_/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/SparshaPrakash/Leetcode_/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/SparshaPrakash/Leetcode_/tree/master/0202-happy-number) |
+| [0224-basic-calculator](https://github.com/SparshaPrakash/Leetcode_/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SparshaPrakash/Leetcode_/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/SparshaPrakash/Leetcode_/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/SparshaPrakash/Leetcode_/tree/master/0279-perfect-squares) |
@@ -536,6 +539,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0010-regular-expression-matching](https://github.com/SparshaPrakash/Leetcode_/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/SparshaPrakash/Leetcode_/tree/master/0021-merge-two-sorted-lists) |
+| [0224-basic-calculator](https://github.com/SparshaPrakash/Leetcode_/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SparshaPrakash/Leetcode_/tree/master/0241-different-ways-to-add-parentheses) |
 | [0394-decode-string](https://github.com/SparshaPrakash/Leetcode_/tree/master/0394-decode-string) |
 ## Design
