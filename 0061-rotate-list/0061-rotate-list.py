@@ -8,26 +8,26 @@ class Solution:
         if not head:
             return head
 
-        # getting the length of the linked list
-        length, tail = 1, head # length = 1 cause we know there there is one node--> the head for sure
+        # getting the length
+        length, tail = 1, head
         while tail.next:
             tail = tail.next
             length += 1
 
-        # chekcing number of times to rotate
-        k = k % length # to deal when k is greater than the length
+        k = k % length
+
         if k == 0:
             return head
 
-        # chekcing where to rotate and rotating
+        # mobeing to the pivot and rotating
         cur = head
-        for i in range(length - k - 1): # here we do -1 because we are alread in the first head node. From this node to jump to the kth node (pivot) -> length - k - 1
-            cur = cur.next
+        for i in range(length - k - 1):
+            cur = cur.next  
 
         newHead = cur.next
         cur.next = None
         tail.next = head
         return newHead
 
-
         
+    
