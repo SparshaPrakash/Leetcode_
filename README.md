@@ -317,12 +317,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/SparshaPrakash/Leetcode_/tree/master/0100-same-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SparshaPrakash/Leetcode_/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/SparshaPrakash/Leetcode_/tree/master/0337-house-robber-iii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/SparshaPrakash/Leetcode_/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/SparshaPrakash/Leetcode_/tree/master/0100-same-tree) |
 | [0130-surrounded-regions](https://github.com/SparshaPrakash/Leetcode_/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/SparshaPrakash/Leetcode_/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/SparshaPrakash/Leetcode_/tree/master/0200-number-of-islands) |
@@ -348,6 +350,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/SparshaPrakash/Leetcode_/tree/master/0100-same-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SparshaPrakash/Leetcode_/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/SparshaPrakash/Leetcode_/tree/master/0337-house-robber-iii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/SparshaPrakash/Leetcode_/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -455,6 +458,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/SparshaPrakash/Leetcode_/tree/master/0100-same-tree) |
 | [0127-word-ladder](https://github.com/SparshaPrakash/Leetcode_/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/SparshaPrakash/Leetcode_/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/SparshaPrakash/Leetcode_/tree/master/0133-clone-graph) |
