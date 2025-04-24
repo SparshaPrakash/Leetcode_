@@ -15,8 +15,9 @@ class Solution:
 
             if node:
                 res = max(res, depth)
-                stack.append([node.left, depth + 1])
                 stack.append([node.right, depth + 1])
+                stack.append([node.left, depth + 1])
+                
 
         return res
 
