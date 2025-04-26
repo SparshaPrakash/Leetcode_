@@ -321,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0101-symmetric-tree](https://github.com/SparshaPrakash/Leetcode_/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SparshaPrakash/Leetcode_/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/SparshaPrakash/Leetcode_/tree/master/0112-path-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/SparshaPrakash/Leetcode_/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/SparshaPrakash/Leetcode_/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SparshaPrakash/Leetcode_/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/SparshaPrakash/Leetcode_/tree/master/0337-house-robber-iii) |
@@ -362,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0101-symmetric-tree](https://github.com/SparshaPrakash/Leetcode_/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SparshaPrakash/Leetcode_/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/SparshaPrakash/Leetcode_/tree/master/0112-path-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/SparshaPrakash/Leetcode_/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/SparshaPrakash/Leetcode_/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SparshaPrakash/Leetcode_/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/SparshaPrakash/Leetcode_/tree/master/0337-house-robber-iii) |
@@ -375,6 +377,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0187-repeated-dna-sequences](https://github.com/SparshaPrakash/Leetcode_/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/SparshaPrakash/Leetcode_/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/SparshaPrakash/Leetcode_/tree/master/0191-number-of-1-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/SparshaPrakash/Leetcode_/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/SparshaPrakash/Leetcode_/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/SparshaPrakash/Leetcode_/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/SparshaPrakash/Leetcode_/tree/master/0371-sum-of-two-integers) |
@@ -513,6 +516,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0162-find-peak-element](https://github.com/SparshaPrakash/Leetcode_/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SparshaPrakash/Leetcode_/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/SparshaPrakash/Leetcode_/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/SparshaPrakash/Leetcode_/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/SparshaPrakash/Leetcode_/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/SparshaPrakash/Leetcode_/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SparshaPrakash/Leetcode_/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
