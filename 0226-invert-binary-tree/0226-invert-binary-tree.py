@@ -6,23 +6,14 @@
 #         self.right = right
 class Solution:
     def invertTree(self, root: Optional[TreeNode]) -> Optional[TreeNode]:
-        # left sub tree and right sub tree at every node must be interchanged
-        # BFS using a queue
-        # iterative - queue
-        # O(N)
-        # when we pop from queue, swap left and right subtrees
         if not root:
             return None
-        queue = deque([root])
 
-        while queue:
-            node = queue.popleft()
-            # fifo
-            node.left, node.right = node.right, node.left
+        # swap the children
+        temp = root.left
+        root.left = root.right
+        root.right = temp
 
-            if node.left:
-                queue.append(node.left)
-            
-            if node.right:
-                queue.append(node.right)
+        self.invertTree(root.left)
+        self.invertTree(root.right)
         return root
