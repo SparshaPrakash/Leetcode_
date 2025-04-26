@@ -320,6 +320,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/SparshaPrakash/Leetcode_/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/SparshaPrakash/Leetcode_/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SparshaPrakash/Leetcode_/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/SparshaPrakash/Leetcode_/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/SparshaPrakash/Leetcode_/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SparshaPrakash/Leetcode_/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/SparshaPrakash/Leetcode_/tree/master/0337-house-robber-iii) |
@@ -330,6 +331,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/SparshaPrakash/Leetcode_/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/SparshaPrakash/Leetcode_/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SparshaPrakash/Leetcode_/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/SparshaPrakash/Leetcode_/tree/master/0112-path-sum) |
 | [0130-surrounded-regions](https://github.com/SparshaPrakash/Leetcode_/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/SparshaPrakash/Leetcode_/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/SparshaPrakash/Leetcode_/tree/master/0200-number-of-islands) |
@@ -359,6 +361,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/SparshaPrakash/Leetcode_/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/SparshaPrakash/Leetcode_/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SparshaPrakash/Leetcode_/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/SparshaPrakash/Leetcode_/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/SparshaPrakash/Leetcode_/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SparshaPrakash/Leetcode_/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/SparshaPrakash/Leetcode_/tree/master/0337-house-robber-iii) |
@@ -470,6 +473,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/SparshaPrakash/Leetcode_/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/SparshaPrakash/Leetcode_/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SparshaPrakash/Leetcode_/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/SparshaPrakash/Leetcode_/tree/master/0112-path-sum) |
 | [0127-word-ladder](https://github.com/SparshaPrakash/Leetcode_/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/SparshaPrakash/Leetcode_/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/SparshaPrakash/Leetcode_/tree/master/0133-clone-graph) |
