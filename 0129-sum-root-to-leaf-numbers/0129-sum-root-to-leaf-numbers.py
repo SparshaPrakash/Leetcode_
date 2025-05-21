@@ -6,20 +6,14 @@
 #         self.right = right
 class Solution:
     def sumNumbers(self, root: Optional[TreeNode]) -> int:
-        # memory is the path till now
-        # return the final path
-        total = 0
-
-        def dfs(node, so_far: int):
-            nonlocal total
-            if not node:
-                return
-            cur = (so_far * 10) + node.val
-            if not node.left and (not node.right):
-                total += cur
-            dfs(node.left, cur)
-            dfs(node.right, cur)
-            
-        dfs(root, 0)
-        return total
         
+        def dfs(cur, num):
+            if not cur:
+                return 0
+
+            num = num * 10 + cur.val
+            if not cur.left and not cur.right:
+                return num
+            return dfs(cur.left, num) + dfs(cur.right, num)
+
+        return dfs(root, 0)
