@@ -3,8 +3,8 @@ class Solution:
         adj = collections.defaultdict(list) # Map a -> list of [b, a/b]
         for i, eq in enumerate(equations):
             a, b = eq
-            adj[a].append((b, values[i]))
-            adj[b].append((a, 1/values[i]))
+            adj[a].append((b, values[i]))   # a -> b with weight a/b
+            adj[b].append((a, 1/values[i])) # b -> a with weight b/a
 
         def bfs(src, target):
             if src not in adj or target not in adj:
