@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0377-combination-sum-iv](https://github.com/SparshaPrakash/Leetcode_/tree/master/0377-combination-sum-iv) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SparshaPrakash/Leetcode_/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/SparshaPrakash/Leetcode_/tree/master/0380-insert-delete-getrandom-o1) |
+| [0399-evaluate-division](https://github.com/SparshaPrakash/Leetcode_/tree/master/0399-evaluate-division) |
 | [0416-partition-equal-subset-sum](https://github.com/SparshaPrakash/Leetcode_/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/SparshaPrakash/Leetcode_/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/SparshaPrakash/Leetcode_/tree/master/0435-non-overlapping-intervals) |
@@ -196,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/SparshaPrakash/Leetcode_/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/SparshaPrakash/Leetcode_/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/SparshaPrakash/Leetcode_/tree/master/0394-decode-string) |
+| [0399-evaluate-division](https://github.com/SparshaPrakash/Leetcode_/tree/master/0399-evaluate-division) |
 | [0451-sort-characters-by-frequency](https://github.com/SparshaPrakash/Leetcode_/tree/master/0451-sort-characters-by-frequency) |
 | [0647-palindromic-substrings](https://github.com/SparshaPrakash/Leetcode_/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/SparshaPrakash/Leetcode_/tree/master/0678-valid-parenthesis-string) |
@@ -373,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SparshaPrakash/Leetcode_/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/SparshaPrakash/Leetcode_/tree/master/0332-reconstruct-itinerary) |
 | [0337-house-robber-iii](https://github.com/SparshaPrakash/Leetcode_/tree/master/0337-house-robber-iii) |
+| [0399-evaluate-division](https://github.com/SparshaPrakash/Leetcode_/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/SparshaPrakash/Leetcode_/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/SparshaPrakash/Leetcode_/tree/master/0463-island-perimeter) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/SparshaPrakash/Leetcode_/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -535,6 +538,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/SparshaPrakash/Leetcode_/tree/master/0322-coin-change) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/SparshaPrakash/Leetcode_/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SparshaPrakash/Leetcode_/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0399-evaluate-division](https://github.com/SparshaPrakash/Leetcode_/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/SparshaPrakash/Leetcode_/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/SparshaPrakash/Leetcode_/tree/master/0463-island-perimeter) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/SparshaPrakash/Leetcode_/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -577,6 +581,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/SparshaPrakash/Leetcode_/tree/master/0200-number-of-islands) |
 | [0261-graph-valid-tree](https://github.com/SparshaPrakash/Leetcode_/tree/master/0261-graph-valid-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/SparshaPrakash/Leetcode_/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [0399-evaluate-division](https://github.com/SparshaPrakash/Leetcode_/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/SparshaPrakash/Leetcode_/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/SparshaPrakash/Leetcode_/tree/master/0695-max-area-of-island) |
 | [0794-swim-in-rising-water](https://github.com/SparshaPrakash/Leetcode_/tree/master/0794-swim-in-rising-water) |
@@ -593,6 +598,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/SparshaPrakash/Leetcode_/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SparshaPrakash/Leetcode_/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/SparshaPrakash/Leetcode_/tree/master/0332-reconstruct-itinerary) |
+| [0399-evaluate-division](https://github.com/SparshaPrakash/Leetcode_/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/SparshaPrakash/Leetcode_/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/SparshaPrakash/Leetcode_/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/SparshaPrakash/Leetcode_/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -769,6 +775,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/SparshaPrakash/Leetcode_/tree/master/0399-evaluate-division) |
 | [0744-network-delay-time](https://github.com/SparshaPrakash/Leetcode_/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/SparshaPrakash/Leetcode_/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Minimum Spanning Tree
