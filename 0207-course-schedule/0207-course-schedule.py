@@ -1,28 +1,30 @@
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
-        # Mapping each course to preMap
-        preMap = {i : [] for i in range(numCourses)}
+        # mapping each coourse to  its prerequisites
+        preMap = {i:[] for i in range(numCourses)}
         for crs, pre in prerequisites:
             preMap[crs].append(pre)
 
-        # Getting all visited courses along the DFS path
-        visited = set()
+        # getting all courses along the dfs path
+        visitSet = set()
         def dfs(crs):
-            if crs in visited:
-                return False
+            if crs in visitSet:
+                return False   # cannot be completed
             if preMap[crs] == []:
-                return True
+                return True # it doesnt have any prereq
 
-            visited.add(crs)
+            visitSet.add(crs)
             for pre in preMap[crs]:
                 if not dfs(pre): return False
-            visited.remove(crs)
+            visitSet.remove(crs)
             preMap[crs] = []
             return True
 
-        for crs in range(numCourses): # so that all courses are chcked, even of the graph is diconnected
+        for crs in range(numCourses):
             if not dfs(crs): return False
+
         return True
-            
+
+       
 
         
