@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0876-hand-of-straights](https://github.com/SparshaPrakash/Leetcode_/tree/master/0876-hand-of-straights) |
 | [0909-stone-game](https://github.com/SparshaPrakash/Leetcode_/tree/master/0909-stone-game) |
 | [0943-sum-of-subarray-minimums](https://github.com/SparshaPrakash/Leetcode_/tree/master/0943-sum-of-subarray-minimums) |
+| [0945-snakes-and-ladders](https://github.com/SparshaPrakash/Leetcode_/tree/master/0945-snakes-and-ladders) |
 | [0948-sort-an-array](https://github.com/SparshaPrakash/Leetcode_/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/SparshaPrakash/Leetcode_/tree/master/0952-word-subsets) |
 | [0967-minimum-falling-path-sum](https://github.com/SparshaPrakash/Leetcode_/tree/master/0967-minimum-falling-path-sum) |
@@ -447,6 +448,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0498-diagonal-traverse](https://github.com/SparshaPrakash/Leetcode_/tree/master/0498-diagonal-traverse) |
 | [0695-max-area-of-island](https://github.com/SparshaPrakash/Leetcode_/tree/master/0695-max-area-of-island) |
 | [0794-swim-in-rising-water](https://github.com/SparshaPrakash/Leetcode_/tree/master/0794-swim-in-rising-water) |
+| [0945-snakes-and-ladders](https://github.com/SparshaPrakash/Leetcode_/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/SparshaPrakash/Leetcode_/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/SparshaPrakash/Leetcode_/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/SparshaPrakash/Leetcode_/tree/master/1073-number-of-enclaves) |
@@ -549,6 +551,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0794-swim-in-rising-water](https://github.com/SparshaPrakash/Leetcode_/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/SparshaPrakash/Leetcode_/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0871-keys-and-rooms](https://github.com/SparshaPrakash/Leetcode_/tree/master/0871-keys-and-rooms) |
+| [0945-snakes-and-ladders](https://github.com/SparshaPrakash/Leetcode_/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/SparshaPrakash/Leetcode_/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/SparshaPrakash/Leetcode_/tree/master/1073-number-of-enclaves) |
 ## Trie
