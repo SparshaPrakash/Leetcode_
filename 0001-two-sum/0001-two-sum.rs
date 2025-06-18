@@ -13,6 +13,6 @@ impl Solution {
             map.insert(num, i);
         }
 
-        vec![] // This won't be hit, as per the problem statement
+        vec![] 
     }
 }
