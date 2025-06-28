@@ -7,7 +7,7 @@ class Solution:
     def sortList(self, head: Optional[ListNode]) -> Optional[ListNode]:
         if not head or not head.next:
             return head
-        
+
         # splitting the list into 2 halves
         left = head
         right = self.getMid(head)
@@ -36,13 +36,13 @@ class Solution:
                 tail.next = list2
                 list2 = list2.next
             tail = tail.next
+
         if list1:
-            tail.next = list1
+                tail.next = list1
         if list2:
-            tail.next = list2
+                tail.next = list2
 
         return dummy.next
-
 
 
         
