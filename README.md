@@ -104,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0945-snakes-and-ladders](https://github.com/SparshaPrakash/Leetcode_/tree/master/0945-snakes-and-ladders) |
 | [0948-sort-an-array](https://github.com/SparshaPrakash/Leetcode_/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/SparshaPrakash/Leetcode_/tree/master/0952-word-subsets) |
+| [0954-maximum-sum-circular-subarray](https://github.com/SparshaPrakash/Leetcode_/tree/master/0954-maximum-sum-circular-subarray) |
 | [0967-minimum-falling-path-sum](https://github.com/SparshaPrakash/Leetcode_/tree/master/0967-minimum-falling-path-sum) |
 | [0976-minimum-area-rectangle](https://github.com/SparshaPrakash/Leetcode_/tree/master/0976-minimum-area-rectangle) |
 | [0990-verifying-an-alien-dictionary](https://github.com/SparshaPrakash/Leetcode_/tree/master/0990-verifying-an-alien-dictionary) |
@@ -262,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0803-cheapest-flights-within-k-stops](https://github.com/SparshaPrakash/Leetcode_/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0909-stone-game](https://github.com/SparshaPrakash/Leetcode_/tree/master/0909-stone-game) |
 | [0943-sum-of-subarray-minimums](https://github.com/SparshaPrakash/Leetcode_/tree/master/0943-sum-of-subarray-minimums) |
+| [0954-maximum-sum-circular-subarray](https://github.com/SparshaPrakash/Leetcode_/tree/master/0954-maximum-sum-circular-subarray) |
 | [0967-minimum-falling-path-sum](https://github.com/SparshaPrakash/Leetcode_/tree/master/0967-minimum-falling-path-sum) |
 | [1250-longest-common-subsequence](https://github.com/SparshaPrakash/Leetcode_/tree/master/1250-longest-common-subsequence) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/SparshaPrakash/Leetcode_/tree/master/2325-number-of-ways-to-select-buildings) |
@@ -694,6 +696,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0191-number-of-1-bits](https://github.com/SparshaPrakash/Leetcode_/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SparshaPrakash/Leetcode_/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/SparshaPrakash/Leetcode_/tree/master/0948-sort-an-array) |
+| [0954-maximum-sum-circular-subarray](https://github.com/SparshaPrakash/Leetcode_/tree/master/0954-maximum-sum-circular-subarray) |
 | [1014-k-closest-points-to-origin](https://github.com/SparshaPrakash/Leetcode_/tree/master/1014-k-closest-points-to-origin) |
 ## Geometry
 |  |
@@ -839,4 +842,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/SparshaPrakash/Leetcode_/tree/master/0173-binary-search-tree-iterator) |
+## Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/SparshaPrakash/Leetcode_/tree/master/0954-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/SparshaPrakash/Leetcode_/tree/master/0954-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
