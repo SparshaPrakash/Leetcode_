@@ -1,13 +1,17 @@
 class Solution:
     def wordBreak(self, s: str, wordDict: List[str]) -> bool:
-        dp = [False] * (len(s) + 1)
-        dp[len(s)] = True
-
-        for i in range(len(s) - 1, -1, -1):
-            for w in wordDict:
-                if (i + len(w)) <= len(s) and s[i: i + len(w)] == w:
-                    dp[i] = dp[i + len(w)]
-                if dp[i]:
-                    break
-
-        return dp[0]
+        wordDict = set(wordDict)       # Faster lookup: O(1)
+        n = len(s) + 1                 # We use a dp array of size len(s) + 1
+        dp = [False] * n
+        dp[0] = True                   # Base case: empty string is "breakable"
+        
+        trues = [0]                    # Track indices where dp[i] is True
+        
+        for i in range(1, n):
+            for j in trues:
+                if s[j:i] in wordDict:
+                    dp[i] = True       # s[0:i] can be broken
+                    trues.append(i)    # Save new True index
+                    break              # No need to check more j's for this i
+        
+        return dp[-1]                  # dp[n-1] tells if full string is breakable
