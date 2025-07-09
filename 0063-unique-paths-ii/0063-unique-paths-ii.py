@@ -4,29 +4,19 @@ class Solution:
     def uniquePathsWithObstacles(self, grid: List[List[int]]) -> int:
         m, n = len(grid), len(grid[0])
 
-        # If the starting or ending cell is an obstacle, return 0 immediately
+        # If start or end is an obstacle, return 0
         if grid[0][0] == 1 or grid[m - 1][n - 1] == 1:
             return 0
 
-        # Create DP table
-        dp = [[0] * n for _ in range(m)]
-        dp[0][0] = 1  # 1 way to be at the start
+        # Initialize a 1D dp array for the first row
+        dp = [0] * n
+        dp[0] = 1  # Start cell has one way if not an obstacle
 
-        # Fill first row
-        for j in range(1, n):
-            if grid[0][j] == 0:
-                dp[0][j] = dp[0][j - 1]
-            # else it stays 0 (obstacle)
+        for i in range(m):
+            for j in range(n):
+                if grid[i][j] == 1:
+                    dp[j] = 0  # No path through an obstacle
+                elif j > 0:
+                    dp[j] += dp[j - 1]  # Add left cell value
 
-        # Fill first column
-        for i in range(1, m):
-            if grid[i][0] == 0:
-                dp[i][0] = dp[i - 1][0]
-
-        # Fill the rest of the grid
-        for i in range(1, m):
-            for j in range(1, n):
-                if grid[i][j] == 0:
-                    dp[i][j] = dp[i - 1][j] + dp[i][j - 1]
-
-        return dp[m - 1][n - 1]
+        return dp[-1]
