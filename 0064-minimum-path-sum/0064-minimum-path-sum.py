@@ -1,11 +1,18 @@
+from typing import List
+
 class Solution:
     def minPathSum(self, grid: List[List[int]]) -> int:
-        for row in range(len(grid)):
-            for col in range(len(grid[0])):
-                if row == 0 and col != 0:
-                    grid[row][col] += grid[row][col - 1]
-                elif col == 0 and row != 0:
-                    grid[row][col] += grid[row - 1][col]
-                elif row != 0 and col != 0:
-                    grid[row][col] += min(grid[row - 1][col], grid[row][col -1])
-        return grid[row][col]
+        ROWS, COLS = len(grid), len(grid[0])
+        
+        # Create a (ROWS+1) x (COLS+1) DP table initialized with infinity
+        res = [[float("inf")] * (COLS + 1) for _ in range(ROWS + 1)]
+        
+        # Base case: set the cell just outside the bottom-right corner to 0
+        res[ROWS][COLS - 1] = 0
+        
+        # Fill the DP table from bottom-right to top-left
+        for r in range(ROWS - 1, -1, -1):
+            for c in range(COLS - 1, -1, -1):
+                res[r][c] = grid[r][c] + min(res[r + 1][c], res[r][c + 1])
+        
+        return res[0][0]
