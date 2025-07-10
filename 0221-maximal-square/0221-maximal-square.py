@@ -1,20 +1,36 @@
+from typing import List
+
 class Solution:
     def maximalSquare(self, matrix: List[List[str]]) -> int:
-        rows = len(matrix)
-        cols = len(matrix[0])
-        maxLen = 0
-        # each cell means the number of squares it can form starting from that position.
-        dp = [[0]*(cols+1) for _ in range(rows+1)]
-        for i in range(rows+1):
-            dp[i][cols] = 0
-        for j in range(cols+1):  
-            dp[rows][j] = 0
-        for i in range(rows-1,-1,-1):
-            for j in range(cols-1,-1,-1):
-                if matrix[i][j] == '0':
-                    dp[i][j] = 0
-                else:
-                    dp[i][j] = 1 + min(dp[i+1][j],dp[i][j+1],dp[i+1][j+1])
-                    if dp[i][j] > maxLen:
-                        maxLen = dp[i][j]    
-        return (maxLen*maxLen)              
+        # Get dimensions
+        ROWS, COLS = len(matrix), len(matrix[0])
+        # Memoization dictionary to store (r, c) → max square length
+        cache = {}
+
+        def helper(r, c):
+            # If we're out of bounds, return 0 (base case)
+            if r >= ROWS or c >= COLS:
+                return 0
+
+            # If already computed, return cached result
+            if (r, c) in cache:
+                return cache[(r, c)]
+
+            # Recursively compute square size from neighbors
+            down = helper(r + 1, c)
+            right = helper(r, c + 1)
+            diag = helper(r + 1, c + 1)
+
+            # If current cell is '1', compute square size
+            if matrix[r][c] == "1":
+                cache[(r, c)] = 1 + min(down, right, diag)
+            else:
+                cache[(r, c)] = 0
+
+            return cache[(r, c)]
+
+        # Start from top-left corner
+        helper(0, 0)
+
+        # Find the largest square length from cache and return area
+        return max(cache.values(), default=0) ** 2
