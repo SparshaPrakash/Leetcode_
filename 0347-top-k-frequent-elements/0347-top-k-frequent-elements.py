@@ -1,17 +1,13 @@
 class Solution(object):
     def topKFrequent(self, nums, k):
-        count = {}
-        freq = [[] for i in range(len(nums) + 1)]
+        d = defaultdict(int)
+        for num in nums:
+            d[num] += 1  # d = {1:3, 2:2,3:1, 4:3}
+        heap = []  
+        for key, val in d.items():
+            if len(heap) < k or val > heap[0][0]:  # if the value is greater than the mimimum value in the heap
+                heapq.heappush(heap,[val,key]) # val first here, vause it is sorted based on the firts value
+            if len(heap) > k:
+                heapq.heappop(heap)
 
-        for n in nums:
-            count[n] = 1 + count.get(n,0)
-        for n, c in count.items():
-            freq[c].append(n)
-
-        res = []
-        for i in range(len(freq) -1, 0, -1):
-            for n in freq[i]:
-                res.append(n)
-                if len(res) == k:
-                    return res
-        
+        return [i[1] for i in heap] # retrning the values in the heap
