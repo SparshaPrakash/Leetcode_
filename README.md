@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0312-burst-balloons](https://github.com/SparshaPrakash/Leetcode_/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/SparshaPrakash/Leetcode_/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SparshaPrakash/Leetcode_/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0347-top-k-frequent-elements](https://github.com/SparshaPrakash/Leetcode_/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/SparshaPrakash/Leetcode_/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0377-combination-sum-iv](https://github.com/SparshaPrakash/Leetcode_/tree/master/0377-combination-sum-iv) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SparshaPrakash/Leetcode_/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -154,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/SparshaPrakash/Leetcode_/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SparshaPrakash/Leetcode_/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/SparshaPrakash/Leetcode_/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/SparshaPrakash/Leetcode_/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/SparshaPrakash/Leetcode_/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/SparshaPrakash/Leetcode_/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/SparshaPrakash/Leetcode_/tree/master/0383-ransom-note) |
@@ -680,6 +682,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/SparshaPrakash/Leetcode_/tree/master/0215-kth-largest-element-in-an-array) |
 | [0253-meeting-rooms-ii](https://github.com/SparshaPrakash/Leetcode_/tree/master/0253-meeting-rooms-ii) |
 | [0295-find-median-from-data-stream](https://github.com/SparshaPrakash/Leetcode_/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/SparshaPrakash/Leetcode_/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/SparshaPrakash/Leetcode_/tree/master/0355-design-twitter) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/SparshaPrakash/Leetcode_/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SparshaPrakash/Leetcode_/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -712,6 +715,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0190-reverse-bits](https://github.com/SparshaPrakash/Leetcode_/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/SparshaPrakash/Leetcode_/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SparshaPrakash/Leetcode_/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/SparshaPrakash/Leetcode_/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/SparshaPrakash/Leetcode_/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/SparshaPrakash/Leetcode_/tree/master/0954-maximum-sum-circular-subarray) |
 | [1014-k-closest-points-to-origin](https://github.com/SparshaPrakash/Leetcode_/tree/master/1014-k-closest-points-to-origin) |
@@ -739,6 +743,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0253-meeting-rooms-ii](https://github.com/SparshaPrakash/Leetcode_/tree/master/0253-meeting-rooms-ii) |
 | [0268-missing-number](https://github.com/SparshaPrakash/Leetcode_/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/SparshaPrakash/Leetcode_/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/SparshaPrakash/Leetcode_/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SparshaPrakash/Leetcode_/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/SparshaPrakash/Leetcode_/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/SparshaPrakash/Leetcode_/tree/master/0451-sort-characters-by-frequency) |
@@ -754,6 +759,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SparshaPrakash/Leetcode_/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/SparshaPrakash/Leetcode_/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/SparshaPrakash/Leetcode_/tree/master/1014-k-closest-points-to-origin) |
 ## Merge Sort
 |  |
@@ -764,6 +770,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/SparshaPrakash/Leetcode_/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/SparshaPrakash/Leetcode_/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/SparshaPrakash/Leetcode_/tree/master/0948-sort-an-array) |
 ## Radix Sort
@@ -774,6 +781,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SparshaPrakash/Leetcode_/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/SparshaPrakash/Leetcode_/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/SparshaPrakash/Leetcode_/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/SparshaPrakash/Leetcode_/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/SparshaPrakash/Leetcode_/tree/master/0621-task-scheduler) |
