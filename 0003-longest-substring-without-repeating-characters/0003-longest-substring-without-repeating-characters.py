@@ -11,7 +11,7 @@ class Solution:
                     left += 1
 
             charSet.add(s[right])
-            max_len = max(max_len, right - left + 1)
+            max_len = max(max_len, len(charSet))
 
         return max_len
         
