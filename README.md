@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0221-maximal-square](https://github.com/SparshaPrakash/Leetcode_/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/SparshaPrakash/Leetcode_/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/SparshaPrakash/Leetcode_/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/SparshaPrakash/Leetcode_/tree/master/0239-sliding-window-maximum) |
 | [0252-meeting-rooms](https://github.com/SparshaPrakash/Leetcode_/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/SparshaPrakash/Leetcode_/tree/master/0253-meeting-rooms-ii) |
 | [0268-missing-number](https://github.com/SparshaPrakash/Leetcode_/tree/master/0268-missing-number) |
@@ -690,6 +691,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/SparshaPrakash/Leetcode_/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SparshaPrakash/Leetcode_/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/SparshaPrakash/Leetcode_/tree/master/0239-sliding-window-maximum) |
 | [0253-meeting-rooms-ii](https://github.com/SparshaPrakash/Leetcode_/tree/master/0253-meeting-rooms-ii) |
 | [0295-find-median-from-data-stream](https://github.com/SparshaPrakash/Leetcode_/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/SparshaPrakash/Leetcode_/tree/master/0347-top-k-frequent-elements) |
@@ -859,6 +861,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0187-repeated-dna-sequences](https://github.com/SparshaPrakash/Leetcode_/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/SparshaPrakash/Leetcode_/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/SparshaPrakash/Leetcode_/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/SparshaPrakash/Leetcode_/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/SparshaPrakash/Leetcode_/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/SparshaPrakash/Leetcode_/tree/master/0567-permutation-in-string) |
 ## Rolling Hash
@@ -884,9 +887,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/SparshaPrakash/Leetcode_/tree/master/0239-sliding-window-maximum) |
 | [0954-maximum-sum-circular-subarray](https://github.com/SparshaPrakash/Leetcode_/tree/master/0954-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/SparshaPrakash/Leetcode_/tree/master/0239-sliding-window-maximum) |
 | [0954-maximum-sum-circular-subarray](https://github.com/SparshaPrakash/Leetcode_/tree/master/0954-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
