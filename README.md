@@ -166,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/SparshaPrakash/Leetcode_/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/SparshaPrakash/Leetcode_/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SparshaPrakash/Leetcode_/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/SparshaPrakash/Leetcode_/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/SparshaPrakash/Leetcode_/tree/master/0621-task-scheduler) |
 | [0768-partition-labels](https://github.com/SparshaPrakash/Leetcode_/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/SparshaPrakash/Leetcode_/tree/master/0778-reorganize-string) |
@@ -219,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/SparshaPrakash/Leetcode_/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/SparshaPrakash/Leetcode_/tree/master/0433-minimum-genetic-mutation) |
 | [0451-sort-characters-by-frequency](https://github.com/SparshaPrakash/Leetcode_/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/SparshaPrakash/Leetcode_/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/SparshaPrakash/Leetcode_/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/SparshaPrakash/Leetcode_/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/SparshaPrakash/Leetcode_/tree/master/0768-partition-labels) |
@@ -539,6 +541,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0253-meeting-rooms-ii](https://github.com/SparshaPrakash/Leetcode_/tree/master/0253-meeting-rooms-ii) |
 | [0295-find-median-from-data-stream](https://github.com/SparshaPrakash/Leetcode_/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/SparshaPrakash/Leetcode_/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/SparshaPrakash/Leetcode_/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/SparshaPrakash/Leetcode_/tree/master/0647-palindromic-substrings) |
 | [0768-partition-labels](https://github.com/SparshaPrakash/Leetcode_/tree/master/0768-partition-labels) |
 ## Breadth-First Search
@@ -854,6 +857,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/SparshaPrakash/Leetcode_/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/SparshaPrakash/Leetcode_/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/SparshaPrakash/Leetcode_/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/SparshaPrakash/Leetcode_/tree/master/0567-permutation-in-string) |
 ## Rolling Hash
 |  |
 | ------- |
