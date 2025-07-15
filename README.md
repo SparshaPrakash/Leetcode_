@@ -138,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/SparshaPrakash/Leetcode_/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/SparshaPrakash/Leetcode_/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/SparshaPrakash/Leetcode_/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/SparshaPrakash/Leetcode_/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SparshaPrakash/Leetcode_/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SparshaPrakash/Leetcode_/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/SparshaPrakash/Leetcode_/tree/master/0127-word-ladder) |
@@ -192,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0058-length-of-last-word](https://github.com/SparshaPrakash/Leetcode_/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/SparshaPrakash/Leetcode_/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/SparshaPrakash/Leetcode_/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/SparshaPrakash/Leetcode_/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/SparshaPrakash/Leetcode_/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/SparshaPrakash/Leetcode_/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/SparshaPrakash/Leetcode_/tree/master/0097-interleaving-string) |
@@ -853,6 +855,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SparshaPrakash/Leetcode_/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/SparshaPrakash/Leetcode_/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/SparshaPrakash/Leetcode_/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/SparshaPrakash/Leetcode_/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/SparshaPrakash/Leetcode_/tree/master/0219-contains-duplicate-ii) |
