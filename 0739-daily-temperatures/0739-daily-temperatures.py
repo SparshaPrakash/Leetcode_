@@ -4,12 +4,14 @@ class Solution:
         stack = [] # to store pairs- temp, index
 
         for i, t in enumerate(temperatures):
-            while stack and t > stack[-1][0]:
+            while stack and t > stack[-1][0]: # topmost temperature value
                 stackT, stackInd = stack.pop()
                 res[stackInd] = (i - stackInd)
-            stack.append([t, i])
+            stack.append([t,i])
         return res
 
+    
+      
 
 
         
