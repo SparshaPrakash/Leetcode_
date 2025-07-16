@@ -1,19 +1,18 @@
-class Solution(object):
-    def isValid(self, s):
+class Solution:
+    def isValid(self, s: str) -> bool:
         stack = []
-        pairs = {")":"(", "}":"{", "]":"["}
+        d = {")":"(", "}":"{", "]":"["}
 
-        for c in s:
-            if c in pairs:  # means its a closing parenthesis
-                if stack and stack[-1]  == pairs[c]:    # stack shousnt be emtpty
+        for val in s:
+            if val in d:  # if it is a closing brcaket
+                if stack and stack[-1] == d[val]:
                     stack.pop()
                 else:
                     return False
 
+
             else:
-                stack.append(c)
+                stack.append(val)
 
         return True if not stack else False
         
-
-
