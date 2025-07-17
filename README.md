@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/SparshaPrakash/Leetcode_/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SparshaPrakash/Leetcode_/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SparshaPrakash/Leetcode_/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/SparshaPrakash/Leetcode_/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/SparshaPrakash/Leetcode_/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/SparshaPrakash/Leetcode_/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SparshaPrakash/Leetcode_/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -312,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/SparshaPrakash/Leetcode_/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SparshaPrakash/Leetcode_/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/SparshaPrakash/Leetcode_/tree/master/0071-simplify-path) |
+| [0084-largest-rectangle-in-histogram](https://github.com/SparshaPrakash/Leetcode_/tree/master/0084-largest-rectangle-in-histogram) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SparshaPrakash/Leetcode_/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SparshaPrakash/Leetcode_/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/SparshaPrakash/Leetcode_/tree/master/0155-min-stack) |
@@ -348,6 +350,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SparshaPrakash/Leetcode_/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/SparshaPrakash/Leetcode_/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/SparshaPrakash/Leetcode_/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/SparshaPrakash/Leetcode_/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/SparshaPrakash/Leetcode_/tree/master/0739-daily-temperatures) |
