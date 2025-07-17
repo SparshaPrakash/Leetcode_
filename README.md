@@ -109,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0747-min-cost-climbing-stairs](https://github.com/SparshaPrakash/Leetcode_/tree/master/0747-min-cost-climbing-stairs) |
 | [0794-swim-in-rising-water](https://github.com/SparshaPrakash/Leetcode_/tree/master/0794-swim-in-rising-water) |
 | [0876-hand-of-straights](https://github.com/SparshaPrakash/Leetcode_/tree/master/0876-hand-of-straights) |
+| [0883-car-fleet](https://github.com/SparshaPrakash/Leetcode_/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/SparshaPrakash/Leetcode_/tree/master/0907-koko-eating-bananas) |
 | [0909-stone-game](https://github.com/SparshaPrakash/Leetcode_/tree/master/0909-stone-game) |
 | [0943-sum-of-subarray-minimums](https://github.com/SparshaPrakash/Leetcode_/tree/master/0943-sum-of-subarray-minimums) |
@@ -321,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/SparshaPrakash/Leetcode_/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/SparshaPrakash/Leetcode_/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/SparshaPrakash/Leetcode_/tree/master/0739-daily-temperatures) |
+| [0883-car-fleet](https://github.com/SparshaPrakash/Leetcode_/tree/master/0883-car-fleet) |
 | [0943-sum-of-subarray-minimums](https://github.com/SparshaPrakash/Leetcode_/tree/master/0943-sum-of-subarray-minimums) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/SparshaPrakash/Leetcode_/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Greedy
@@ -349,6 +351,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0316-remove-duplicate-letters](https://github.com/SparshaPrakash/Leetcode_/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/SparshaPrakash/Leetcode_/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/SparshaPrakash/Leetcode_/tree/master/0739-daily-temperatures) |
+| [0883-car-fleet](https://github.com/SparshaPrakash/Leetcode_/tree/master/0883-car-fleet) |
 | [0943-sum-of-subarray-minimums](https://github.com/SparshaPrakash/Leetcode_/tree/master/0943-sum-of-subarray-minimums) |
 ## Tree
 |  |
@@ -763,6 +766,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/SparshaPrakash/Leetcode_/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/SparshaPrakash/Leetcode_/tree/master/0778-reorganize-string) |
 | [0876-hand-of-straights](https://github.com/SparshaPrakash/Leetcode_/tree/master/0876-hand-of-straights) |
+| [0883-car-fleet](https://github.com/SparshaPrakash/Leetcode_/tree/master/0883-car-fleet) |
 | [0948-sort-an-array](https://github.com/SparshaPrakash/Leetcode_/tree/master/0948-sort-an-array) |
 | [0976-minimum-area-rectangle](https://github.com/SparshaPrakash/Leetcode_/tree/master/0976-minimum-area-rectangle) |
 | [1014-k-closest-points-to-origin](https://github.com/SparshaPrakash/Leetcode_/tree/master/1014-k-closest-points-to-origin) |
