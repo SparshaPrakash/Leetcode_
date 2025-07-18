@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/SparshaPrakash/Leetcode_/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/SparshaPrakash/Leetcode_/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/SparshaPrakash/Leetcode_/tree/master/0747-min-cost-climbing-stairs) |
+| [0792-binary-search](https://github.com/SparshaPrakash/Leetcode_/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/SparshaPrakash/Leetcode_/tree/master/0794-swim-in-rising-water) |
 | [0876-hand-of-straights](https://github.com/SparshaPrakash/Leetcode_/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/SparshaPrakash/Leetcode_/tree/master/0883-car-fleet) |
@@ -617,6 +618,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/SparshaPrakash/Leetcode_/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SparshaPrakash/Leetcode_/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SparshaPrakash/Leetcode_/tree/master/0540-single-element-in-a-sorted-array) |
+| [0792-binary-search](https://github.com/SparshaPrakash/Leetcode_/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/SparshaPrakash/Leetcode_/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/SparshaPrakash/Leetcode_/tree/master/0907-koko-eating-bananas) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/SparshaPrakash/Leetcode_/tree/master/1977-minimum-interval-to-include-each-query) |
