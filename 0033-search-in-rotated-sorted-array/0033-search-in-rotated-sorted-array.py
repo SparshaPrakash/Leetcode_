@@ -22,3 +22,4 @@ class Solution:
                     l = mid + 1
 
         return -1
+        
