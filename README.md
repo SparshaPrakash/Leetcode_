@@ -675,6 +675,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/SparshaPrakash/Leetcode_/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/SparshaPrakash/Leetcode_/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/SparshaPrakash/Leetcode_/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/SparshaPrakash/Leetcode_/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/SparshaPrakash/Leetcode_/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SparshaPrakash/Leetcode_/tree/master/0241-different-ways-to-add-parentheses) |
 | [0394-decode-string](https://github.com/SparshaPrakash/Leetcode_/tree/master/0394-decode-string) |
@@ -830,6 +831,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0138-copy-list-with-random-pointer](https://github.com/SparshaPrakash/Leetcode_/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/SparshaPrakash/Leetcode_/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/SparshaPrakash/Leetcode_/tree/master/0148-sort-list) |
+| [0206-reverse-linked-list](https://github.com/SparshaPrakash/Leetcode_/tree/master/0206-reverse-linked-list) |
 | [0355-design-twitter](https://github.com/SparshaPrakash/Leetcode_/tree/master/0355-design-twitter) |
 ## Prefix Sum
 |  |
