@@ -1,34 +1,33 @@
 class Solution:
-    def findMedianSortedArrays(self, nums1, nums2):
-    # Step 1: Merge the two sorted arrays
-        merged = []
-        i, j = 0, 0
+    def findMedianSortedArrays(self, nums1: List[int], nums2: List[int]) -> float:
+        # Ensure nums1 is the smaller array
+        if len(nums1) > len(nums2):
+            nums1, nums2 = nums2, nums1
 
-        while i < len(nums1) and j < len(nums2):
-            if nums1[i] < nums2[j]:
-                merged.append(nums1[i])
-                i += 1
+        m, n = len(nums1), len(nums2)
+        total_left = (m + n + 1) // 2  # number of elements in the left half
+        left, right = 0, m
+
+        while left <= right:
+            i = (left + right) // 2     # partition in nums1
+            j = total_left - i          # partition in nums2
+
+            # Handle edges: use -inf or +inf when out of bounds
+            nums1_left_max  = float('-inf') if i == 0 else nums1[i - 1]
+            nums1_right_min = float('inf') if i == m else nums1[i]
+            nums2_left_max  = float('-inf') if j == 0 else nums2[j - 1]
+            nums2_right_min = float('inf') if j == n else nums2[j]
+
+            # Check if we found a valid partition
+            if nums1_left_max <= nums2_right_min and nums2_left_max <= nums1_right_min:
+                # Correct partition found
+                if (m + n) % 2 == 1:
+                    return float(max(nums1_left_max, nums2_left_max))
+                else:
+                    return (max(nums1_left_max, nums2_left_max) + min(nums1_right_min, nums2_right_min)) / 2.0
+            elif nums1_left_max > nums2_right_min:
+                # Too far right in nums1, move left
+                right = i - 1
             else:
-                merged.append(nums2[j])
-                j += 1
-
-        # Add any remaining elements
-        while i < len(nums1):
-            merged.append(nums1[i])
-            i += 1
-        while j < len(nums2):
-            merged.append(nums2[j])
-            j += 1
-
-        # Step 2: Find the median
-        n = len(merged)
-        if n % 2 == 1:
-            # Odd length -> middle element
-            return float(merged[n // 2])
-        else:
-            # Even length -> average of two middle elements
-            mid1 = merged[n // 2 - 1]
-            mid2 = merged[n // 2]
-            return (mid1 + mid2) / 2.0
-
-            
+                # Too far left in nums1, move right
+                left = i + 1
