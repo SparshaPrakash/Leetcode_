@@ -153,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0138-copy-list-with-random-pointer](https://github.com/SparshaPrakash/Leetcode_/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/SparshaPrakash/Leetcode_/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/SparshaPrakash/Leetcode_/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/SparshaPrakash/Leetcode_/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/SparshaPrakash/Leetcode_/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/SparshaPrakash/Leetcode_/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/SparshaPrakash/Leetcode_/tree/master/0202-happy-number) |
@@ -689,6 +690,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/SparshaPrakash/Leetcode_/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/SparshaPrakash/Leetcode_/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/SparshaPrakash/Leetcode_/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/SparshaPrakash/Leetcode_/tree/master/0208-implement-trie-prefix-tree) |
@@ -838,6 +840,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0138-copy-list-with-random-pointer](https://github.com/SparshaPrakash/Leetcode_/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/SparshaPrakash/Leetcode_/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/SparshaPrakash/Leetcode_/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/SparshaPrakash/Leetcode_/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/SparshaPrakash/Leetcode_/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/SparshaPrakash/Leetcode_/tree/master/0206-reverse-linked-list) |
 | [0355-design-twitter](https://github.com/SparshaPrakash/Leetcode_/tree/master/0355-design-twitter) |
@@ -920,4 +923,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/SparshaPrakash/Leetcode_/tree/master/0239-sliding-window-maximum) |
 | [0954-maximum-sum-circular-subarray](https://github.com/SparshaPrakash/Leetcode_/tree/master/0954-maximum-sum-circular-subarray) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/SparshaPrakash/Leetcode_/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
