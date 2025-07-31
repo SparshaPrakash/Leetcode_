@@ -1,20 +1,15 @@
-import heapq
-
 class Solution:
     def lastStoneWeight(self, stones: List[int]) -> int:
-        stones = [-1 * i for i in stones]
+        stones = [-s for s in stones] 
         heapq.heapify(stones)
-        while True:
-            if len(stones) == 0:
-                return 0
-            if len(stones) == 1:
-                return -1 * stones[0]
 
-            x = heapq.heappop(stones)
-            y = heapq.heappop(stones)
-            z = -1 * abs(x - y)
-            if z != 0:
-                heapq.heappush(stones, z)
-
+        while len(stones) > 1:
+            first = heapq.heappop(stones)  # heaviest stone
+            second = heapq.heappop(stones)
+            if second > first:   # it owuld actually have to be if forst > secons, but since we added a neg sign, we check second > first
+                heapq.heappush(stones, first - second)
+        
+        stones.append(0)  # if there is no stoone left
+        return abs(stones[0])
 
         
