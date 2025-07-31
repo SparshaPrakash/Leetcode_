@@ -224,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0269-alien-dictionary](https://github.com/SparshaPrakash/Leetcode_/tree/master/0269-alien-dictionary) |
 | [0271-encode-and-decode-strings](https://github.com/SparshaPrakash/Leetcode_/tree/master/0271-encode-and-decode-strings) |
 | [0290-word-pattern](https://github.com/SparshaPrakash/Leetcode_/tree/master/0290-word-pattern) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/SparshaPrakash/Leetcode_/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/SparshaPrakash/Leetcode_/tree/master/0316-remove-duplicate-letters) |
 | [0383-ransom-note](https://github.com/SparshaPrakash/Leetcode_/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/SparshaPrakash/Leetcode_/tree/master/0392-is-subsequence) |
@@ -389,6 +390,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SparshaPrakash/Leetcode_/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SparshaPrakash/Leetcode_/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SparshaPrakash/Leetcode_/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/SparshaPrakash/Leetcode_/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/SparshaPrakash/Leetcode_/tree/master/0337-house-robber-iii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/SparshaPrakash/Leetcode_/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/SparshaPrakash/Leetcode_/tree/master/0543-diameter-of-binary-tree) |
@@ -423,6 +425,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SparshaPrakash/Leetcode_/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0261-graph-valid-tree](https://github.com/SparshaPrakash/Leetcode_/tree/master/0261-graph-valid-tree) |
 | [0269-alien-dictionary](https://github.com/SparshaPrakash/Leetcode_/tree/master/0269-alien-dictionary) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/SparshaPrakash/Leetcode_/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/SparshaPrakash/Leetcode_/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SparshaPrakash/Leetcode_/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/SparshaPrakash/Leetcode_/tree/master/0332-reconstruct-itinerary) |
@@ -466,6 +469,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SparshaPrakash/Leetcode_/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SparshaPrakash/Leetcode_/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SparshaPrakash/Leetcode_/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/SparshaPrakash/Leetcode_/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/SparshaPrakash/Leetcode_/tree/master/0337-house-robber-iii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/SparshaPrakash/Leetcode_/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/SparshaPrakash/Leetcode_/tree/master/0543-diameter-of-binary-tree) |
@@ -603,6 +607,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0269-alien-dictionary](https://github.com/SparshaPrakash/Leetcode_/tree/master/0269-alien-dictionary) |
 | [0279-perfect-squares](https://github.com/SparshaPrakash/Leetcode_/tree/master/0279-perfect-squares) |
 | [0286-walls-and-gates](https://github.com/SparshaPrakash/Leetcode_/tree/master/0286-walls-and-gates) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/SparshaPrakash/Leetcode_/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/SparshaPrakash/Leetcode_/tree/master/0322-coin-change) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/SparshaPrakash/Leetcode_/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SparshaPrakash/Leetcode_/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -718,6 +723,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0211-design-add-and-search-words-data-structure](https://github.com/SparshaPrakash/Leetcode_/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0271-encode-and-decode-strings](https://github.com/SparshaPrakash/Leetcode_/tree/master/0271-encode-and-decode-strings) |
 | [0295-find-median-from-data-stream](https://github.com/SparshaPrakash/Leetcode_/tree/master/0295-find-median-from-data-stream) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/SparshaPrakash/Leetcode_/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0355-design-twitter](https://github.com/SparshaPrakash/Leetcode_/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/SparshaPrakash/Leetcode_/tree/master/0380-insert-delete-getrandom-o1) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/SparshaPrakash/Leetcode_/tree/master/0789-kth-largest-element-in-a-stream) |
