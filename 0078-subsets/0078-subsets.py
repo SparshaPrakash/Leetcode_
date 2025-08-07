@@ -3,6 +3,7 @@ class Solution:
         res = []
 
         subset = []
+
         def dfs(i):
             if i >= len(nums):
                 res.append(subset.copy())
@@ -12,10 +13,11 @@ class Solution:
             subset.append(nums[i])
             dfs(i + 1)
 
-            # not including nums[i]
+            # not inclusing nums[i]
             subset.pop()
             dfs(i + 1)
 
         dfs(0)
+
         return res
         
