@@ -3,22 +3,23 @@ class Solution:
         res = []
         nums.sort()
 
-        def backtrack(i, cur):
+        def backtrack(i, subset):
             if i == len(nums):
-                res.append(cur.copy())
+                res.append(subset.copy())
                 return
 
+
             # subsets that include nums[i]
-            cur.append(nums[i])
-            backtrack(i + 1, cur)
-            cur.pop()
+            subset.append(nums[i])
+            backtrack(i + 1, subset)
+            subset.pop()
 
-            # subsets that dont include nums[i]
-            while i + 1 < len(nums) and nums[i] == nums[i + 1]:
-                i += 1
-            backtrack(i+1, cur)
 
-        backtrack(0 , [])
+            # subsets that do not include nums[i]
+            while i + 1 < len(nums) and nums[i] == nums[i+1]:
+                i+= 1
+            backtrack(i +1, subset)
+
+        backtrack(0, [])
         return res
-
         
