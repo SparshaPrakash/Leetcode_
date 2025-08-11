@@ -1,20 +1,22 @@
 class Solution:
-    def permute(self, nums: List[int]) -> List[List[int]]:
-        result = []
+    def permute(self, nums):
+        res = []  # To store all permutations
 
-        # base case
-        if len(nums) == 1:
-            return [nums[:]]
+        def backtrack(start):
+            # If we've fixed positions for all numbers, record the permutation
+            if start == len(nums):
+                res.append(nums[:])  # make a copy
+                return
+            
+            for i in range(start, len(nums)):
+                # Swap the current element with the start position
+                nums[start], nums[i] = nums[i], nums[start]
+                
+                # Recurse on the rest
+                backtrack(start + 1)
+                
+                # Undo the swap (backtrack)
+                nums[start], nums[i] = nums[i], nums[start]
 
-        for i in range(len(nums)):
-            n = nums.pop(0)
-            perms = self.permute(nums)
-
-
-            for perm in perms:
-                perm.append(n)
-            result.extend(perms)
-            nums.append(n)
-
-        return result
-        
+        backtrack(0)
+        return res
