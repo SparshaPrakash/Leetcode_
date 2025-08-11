@@ -1,30 +1,21 @@
 class Solution:
     def nextPermutation(self, nums: List[int]) -> None:
-        """
-        Do not return anything, modify nums in-place instead.
-        """
-        
-        k = len(nums) - 2  # inversion point
-        
-        if k <= -1:
-            return nums
-        
-        while k >= 0 and nums[k] >= nums[k + 1]:
-            k -= 1
-            
-        if k == -1:
-            nums.sort()
-            return
-        
-        for i in range(len(nums) - 1, k, -1):
-            if nums[i] > nums[k]:
-                nums[i], nums[k] = nums[k], nums[i]
-                break
-        
-        i = k + 1
-        j = len(nums) - 1
-        
-        while i < j:
-            nums[i], nums[j] = nums[j], nums[i]
-            i += 1
-            j -= 1
+        i = len(nums) - 2
+
+        #  Find pivot (first index from right where nums[i] < nums[i+1])
+        while i >= 0 and nums[i+1] <= nums[i]:
+            i -= 1
+
+        #  If pivot exists, find successor and swap
+        if i >= 0:
+            j = len(nums) - 1
+            while nums[j] <= nums[i]:
+                j -= 1
+            nums[i], nums[j] = nums[j], nums[i]  # swap pivot and successor
+
+        #  Reverse suffix starting at i+1
+        l, r = i + 1, len(nums) - 1
+        while l < r:
+            nums[l], nums[r] = nums[r], nums[l]
+            l += 1
+            r -= 1
