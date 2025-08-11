@@ -1,22 +1,20 @@
 class Solution:
     def permute(self, nums):
-        res = []  # To store all permutations
+        res, path = [], []
+        used = [False] * len(nums)
 
-        def backtrack(start):
-            # If we've fixed positions for all numbers, record the permutation
-            if start == len(nums):
-                res.append(nums[:])  # make a copy
+        def dfs():
+            if len(path) == len(nums):
+                res.append(path[:])  # copy the built permutation
                 return
-            
-            for i in range(start, len(nums)):
-                # Swap the current element with the start position
-                nums[start], nums[i] = nums[i], nums[start]
-                
-                # Recurse on the rest
-                backtrack(start + 1)
-                
-                # Undo the swap (backtrack)
-                nums[start], nums[i] = nums[i], nums[start]
+            for i in range(len(nums)):
+                if used[i]: 
+                    continue
+                used[i] = True
+                path.append(nums[i])
+                dfs()
+                path.pop()
+                used[i] = False
 
-        backtrack(0)
+        dfs()
         return res
