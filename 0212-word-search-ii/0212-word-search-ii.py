@@ -8,7 +8,9 @@ class TrieNode:
         for c in word:
             if c not in cur.children:
                 cur.children[c] = TrieNode()
+
             cur = cur.children[c]
+
         cur.endOfWord = True
 
 class Solution:
@@ -21,11 +23,10 @@ class Solution:
         res, visit = set(), set()
 
 
-        def dfs(r, c, node, word):
-            if (r < 0 or c < 0 or r == rows or c == cols or
-                board[r][c] not in node.children or (r,c) in visit):
+        def dfs(r,c, node, word):
+            if ( r < 0 or c < 0 or r == rows or c == cols or (r,c) in visit or board[r][c] not in node.children):
                 return
-
+        
             visit.add((r,c))
             node = node.children[board[r][c]]
             word += board[r][c]
@@ -37,13 +38,10 @@ class Solution:
             dfs(r, c + 1, node, word)
             dfs(r, c - 1, node, word)
 
-            visit.remove((r,c)) # for backtracking
+            visit.remove((r,c))
 
         for r in range(rows):
             for c in range(cols):
-                dfs(r, c, root, "")
+                dfs(r,c,root,"")
 
         return list(res)
-
-
-        
