@@ -2,12 +2,12 @@ class TrieNode:
     def __init__(self):
         self.children = {}
         self.endOfWord = False
-    
-    
+
 class Trie:
 
     def __init__(self):
         self.root = TrieNode()
+        
         
 
     def insert(self, word: str) -> None:
@@ -16,6 +16,7 @@ class Trie:
         for c in word:
             if c not in cur.children:
                 cur.children[c] = TrieNode()
+
             cur = cur.children[c]
         cur.endOfWord = True
         
@@ -26,6 +27,7 @@ class Trie:
         for c in word:
             if c not in cur.children:
                 return False
+
             cur = cur.children[c]
         return cur.endOfWord
         
@@ -37,9 +39,8 @@ class Trie:
             if c not in cur.children:
                 return False
             cur = cur.children[c]
-        return True
-        
 
+        return True
         
 
 
