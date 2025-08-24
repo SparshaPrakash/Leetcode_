@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/SparshaPrakash/Leetcode_/tree/master/0268-missing-number) |
 | [0269-alien-dictionary](https://github.com/SparshaPrakash/Leetcode_/tree/master/0269-alien-dictionary) |
 | [0271-encode-and-decode-strings](https://github.com/SparshaPrakash/Leetcode_/tree/master/0271-encode-and-decode-strings) |
+| [0283-move-zeroes](https://github.com/SparshaPrakash/Leetcode_/tree/master/0283-move-zeroes) |
 | [0286-walls-and-gates](https://github.com/SparshaPrakash/Leetcode_/tree/master/0286-walls-and-gates) |
 | [0287-find-the-duplicate-number](https://github.com/SparshaPrakash/Leetcode_/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/SparshaPrakash/Leetcode_/tree/master/0300-longest-increasing-subsequence) |
@@ -580,6 +581,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/SparshaPrakash/Leetcode_/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/SparshaPrakash/Leetcode_/tree/master/0202-happy-number) |
 | [0253-meeting-rooms-ii](https://github.com/SparshaPrakash/Leetcode_/tree/master/0253-meeting-rooms-ii) |
+| [0283-move-zeroes](https://github.com/SparshaPrakash/Leetcode_/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SparshaPrakash/Leetcode_/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/SparshaPrakash/Leetcode_/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/SparshaPrakash/Leetcode_/tree/master/0392-is-subsequence) |
