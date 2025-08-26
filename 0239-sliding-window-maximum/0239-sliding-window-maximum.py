@@ -1,7 +1,7 @@
 class Solution:
     def maxSlidingWindow(self, nums: List[int], k: int) -> List[int]:
         output = []
-        q = collections.deque()
+        q = collections.deque() # to store the index
         l = r = 0
 
         while r < len(nums):
