@@ -244,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1023-time-based-key-value-store](https://github.com/SparshaPrakash/Leetcode_/tree/master/1023-time-based-key-value-store) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/SparshaPrakash/Leetcode_/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1250-longest-common-subsequence](https://github.com/SparshaPrakash/Leetcode_/tree/master/1250-longest-common-subsequence) |
+| [1764-maximum-repeating-substring](https://github.com/SparshaPrakash/Leetcode_/tree/master/1764-maximum-repeating-substring) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/SparshaPrakash/Leetcode_/tree/master/2325-number-of-ways-to-select-buildings) |
 ## Dynamic Programming
 |  |
@@ -298,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0954-maximum-sum-circular-subarray](https://github.com/SparshaPrakash/Leetcode_/tree/master/0954-maximum-sum-circular-subarray) |
 | [0967-minimum-falling-path-sum](https://github.com/SparshaPrakash/Leetcode_/tree/master/0967-minimum-falling-path-sum) |
 | [1250-longest-common-subsequence](https://github.com/SparshaPrakash/Leetcode_/tree/master/1250-longest-common-subsequence) |
+| [1764-maximum-repeating-substring](https://github.com/SparshaPrakash/Leetcode_/tree/master/1764-maximum-repeating-substring) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/SparshaPrakash/Leetcode_/tree/master/2325-number-of-ways-to-select-buildings) |
 ## Backtracking
 |  |
@@ -939,6 +941,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SparshaPrakash/Leetcode_/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/SparshaPrakash/Leetcode_/tree/master/0572-subtree-of-another-tree) |
+| [1764-maximum-repeating-substring](https://github.com/SparshaPrakash/Leetcode_/tree/master/1764-maximum-repeating-substring) |
 ## Randomized
 |  |
 | ------- |
