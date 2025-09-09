@@ -6,7 +6,7 @@
 #         self.right = right
 class Solution:
     def maxDepth(self, root: Optional[TreeNode]) -> int:
-        # iterative DFS- preorder -> root, left, right
+        # dfs
         stack = [[root, 1]]
         res = 0
 
@@ -15,9 +15,8 @@ class Solution:
 
             if node:
                 res = max(res, depth)
-                stack.append([node.right, depth + 1])
                 stack.append([node.left, depth + 1])
-                
+                stack.append([node.right, depth + 1])
 
         return res
 
