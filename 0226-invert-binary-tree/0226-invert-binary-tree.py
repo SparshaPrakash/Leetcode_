@@ -3,7 +3,6 @@ class Solution:
         if not root:
             return None
 
-        # swap children directly
         root.left, root.right = root.right, root.left
 
         self.invertTree(root.left)
