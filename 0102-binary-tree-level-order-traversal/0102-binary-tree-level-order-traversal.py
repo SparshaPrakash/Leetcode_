@@ -9,6 +9,9 @@ class Solution:
         res = []
         q = collections.deque([root])
 
+        
+
+
         while q:
             qLen = len(q)
             level = []
@@ -24,4 +27,3 @@ class Solution:
                 res.append(level)
 
         return res
-        
