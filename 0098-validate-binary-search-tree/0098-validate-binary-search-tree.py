@@ -4,21 +4,29 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
+from typing import Optional, List
+
 class Solution:
     def isValidBST(self, root: Optional[TreeNode]) -> bool:
-        if not root:
-            return True
+        stack = []
+        prev = None          # last visited value in inorder
 
-        stack = [(root, float("-inf"), float("inf"))]
+        cur = root
+        while cur or stack:
+            # go left
+            while cur:
+                stack.append(cur)
+                cur = cur.left
 
-        while stack:
-            node, lo, hi = stack.pop()
-            if not (lo < node.val < hi):
+            cur = stack.pop()
+
+            # inorder must be strictly increasing (no duplicates allowed)
+            if prev is not None and cur.val <= prev:
                 return False
+            prev = cur.val
 
-            if node.right:
-                stack.append((node.right, node.val, hi))
-            if node.left:
-                stack.append((node.left, lo, node.val))
+            # then go right
+            cur = cur.right
 
         return True
+
