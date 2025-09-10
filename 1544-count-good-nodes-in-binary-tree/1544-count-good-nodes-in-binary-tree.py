@@ -10,12 +10,14 @@ class Solution:
 
         def dfs(root, maxVal):
             if root.val >= maxVal:
-                self.good += 1
-            if root.left:
-                dfs(root.left, max(maxVal, root.val))
-            if root.right:
-                dfs(root.right, max(maxVal, root.val))
+                self.good +=1
 
+            if root.left:
+                dfs(root.left, max(root.val, maxVal))
+            if root.right:
+                dfs(root.right, max(root.val, maxVal))
+
+            
         dfs(root, root.val)
         return self.good
         
