@@ -10,7 +10,7 @@ class Solution:
 
         if not root:
             return []
-
+            
         q = collections.deque([root])
 
         while q:
@@ -26,5 +26,4 @@ class Solution:
                     q.append(node.right)
 
         return res
-
         
