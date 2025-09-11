@@ -11,6 +11,8 @@ class Solution:
                 heapq.heappush(stones, first - second)
 
 
-        stones.append(0)
-        return abs(stones[0])
+        if not stones:     # no stone left
+            return 0
+        else:              # one stone left
+            return abs(stones[0])
         
