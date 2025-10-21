@@ -964,4 +964,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/SparshaPrakash/Leetcode_/tree/master/0146-lru-cache) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/SparshaPrakash/Leetcode_/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
