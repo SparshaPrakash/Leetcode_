@@ -1,5 +1,7 @@
 SELECT c.Name AS Customers
 FROM Customers AS c
-LEFT JOIN Orders AS o
-  ON c.Id = o.CustomerId
-WHERE o.Id IS NULL;
+WHERE NOT EXISTS (
+  SELECT 1
+  FROM Orders o
+  WHERE o.CustomerId = c.Id
+);
