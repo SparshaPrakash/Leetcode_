@@ -1,6 +1,6 @@
 class Solution:
     def evalRPN(self, tokens: List[str]) -> int:
-        operators = {"+", "-", "*" , "/"}
+        operators = {"+", "-", "*", "/"}
         stack = []
 
         for char in tokens:
@@ -9,10 +9,10 @@ class Solution:
             else:
                 num2 = stack.pop()
                 num1 = stack.pop()
-                if char == "+":
-                    stack.append(num1 + num2)
-                elif char == "*":
+                if char == "*":
                     stack.append(num1 * num2)
+                elif char == "+":
+                    stack.append(num1 + num2)
                 elif char == "-":
                     stack.append(num1 - num2)
                 else:
@@ -22,9 +22,8 @@ class Solution:
 
 
 
-        
 
-        
+
 
 
         
