@@ -4,13 +4,14 @@ class Solution:
         top, bot = 0, rows - 1
         while top < bot:
             m_row = (top + bot) // 2
-            if target > matrix[m_row][-1]: # last value in the row
+            if target > matrix[m_row][-1]:
                 top = m_row + 1
 
             elif target < matrix[m_row][0]:
                 bot = m_row - 1
             else:
                 break
+
 
         if not (top <= bot):
             return False
