@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0792-binary-search](https://github.com/SparshaPrakash/Leetcode_/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/SparshaPrakash/Leetcode_/tree/master/0794-swim-in-rising-water) |
 | [0853-car-fleet](https://github.com/SparshaPrakash/Leetcode_/tree/master/0853-car-fleet) |
+| [0875-koko-eating-bananas](https://github.com/SparshaPrakash/Leetcode_/tree/master/0875-koko-eating-bananas) |
 | [0876-hand-of-straights](https://github.com/SparshaPrakash/Leetcode_/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/SparshaPrakash/Leetcode_/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/SparshaPrakash/Leetcode_/tree/master/0907-koko-eating-bananas) |
@@ -665,6 +666,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0704-binary-search](https://github.com/SparshaPrakash/Leetcode_/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/SparshaPrakash/Leetcode_/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/SparshaPrakash/Leetcode_/tree/master/0794-swim-in-rising-water) |
+| [0875-koko-eating-bananas](https://github.com/SparshaPrakash/Leetcode_/tree/master/0875-koko-eating-bananas) |
 | [0907-koko-eating-bananas](https://github.com/SparshaPrakash/Leetcode_/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/SparshaPrakash/Leetcode_/tree/master/1023-time-based-key-value-store) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/SparshaPrakash/Leetcode_/tree/master/1977-minimum-interval-to-include-each-query) |
