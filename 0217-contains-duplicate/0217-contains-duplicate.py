@@ -1,7 +1,6 @@
 class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:
         n = {}
-
         for i in nums:
             if i in n:
                 return True
@@ -9,3 +8,11 @@ class Solution:
             n[i] = True
 
         return False
+                
+         
+
+
+
+
+
+      
